@@ -1,0 +1,36 @@
+id,quantity,value,unit,kind,source
+G-01,spreading factor in the antenna test,12,,test setting,GUI sec. 3.4
+G-02,coding rate in the antenna test,4/8,,test setting,GUI sec. 3.4
+G-03,bandwidth in the antenna test,125,kHz,test setting,GUI sec. 3.4
+G-04,test payload,16,bytes,test setting,GUI sec. 3.4
+G-05,transmit power (SX1278 default on the ESP32),17,dBm,design,"GUI sec. 3.4, eq. 3-1"
+G-06,transmit antenna gain,5,dBi,design,"GUI sec. 3.4, eq. 3-1"
+G-07,receive antenna gain,5,dBi,design,"GUI sec. 3.4, eq. 3-1"
+G-08,cable and connector loss,0.4,dB,design,"GUI sec. 3.4, eq. 3-1"
+G-09,distance in the calculation,0.4,km,design,"GUI sec. 3.4, eq. 3-2"
+G-10,frequency,433,MHz,design,"GUI sec. 3.4, eq. 3-2"
+G-11,free-space path loss,77.2,dB,calculated by GUI,"GUI sec. 3.4, eq. 3-2"
+G-12,path loss after subtracting both antenna gains,67.2,dB,calculated by GUI,GUI sec. 3.4
+G-13,received power at 400 m,-40.8,dBm,calculated by GUI,"GUI sec. 3.4, eq. 3-1"
+G-14,receiver sensitivity the GUI project quotes,-130,dBm,stated,GUI sec. 3.4
+G-15,symbol rate,30.5175,symbols/s,calculated by GUI,"GUI sec. 3.4, eq. 3-5"
+G-16,bit rate,366.211,bits/s,calculated by GUI,"GUI sec. 3.4, eq. 3-4"
+G-17,time on air of the test payload,0.3495,s,calculated by GUI,"GUI sec. 3.4, eq. 3-3"
+G-18,supply voltage in the energy calculation,3.3,V,design,"GUI sec. 3.4, eq. 3-6"
+G-19,transmit current in the energy calculation,0.12,A,design,"GUI sec. 3.4, eq. 3-6"
+G-20,energy per transmission,0.138402,J,calculated by GUI,"GUI sec. 3.4, eq. 3-6"
+G-21,transmit power drawn,0.396,W,calculated by GUI,GUI sec. 3.4
+G-22,length of the 400 m test route,432,m,measured,GUI sec. 4.1
+G-23,packet delivery rate at 400 m,96,%,stated result,"GUI sec. 4.1, Table 4-1"
+G-24,packet loss at 400 m,4,%,stated result,"GUI sec. 4.1, Table 4-1"
+G-25,mean RSSI at 400 m,-84.16,dBm,stated result,GUI sec. 4.1; GUIS slide 21
+G-26,mean SNR at 400 m,6.466,dB,stated result,GUI sec. 4.1; GUIS slide 22
+G-27,packet delivery rate at 60 m,100,%,stated result,"GUI sec. 4.1, Table 4-2"
+G-28,mean RSSI at 60 m,-46.7,dBm,stated result,GUI sec. 4.1; GUIS slide 29
+G-29,mean SNR at 60 m,9.8,dB,stated result,GUIS slide 30
+G-30,sensor values the scope promises to show,14,values,scope,GUI sec. 3.4; GUIS slide 8
+G-31,distance in the scope,400,m,scope,GUIS slides 7-8
+G-32,ESP32S clock frequency,up to 240,MHz,spec quoted,GUI Table 2-3
+G-33,ESP32S RAM,512,kB,spec quoted,GUI Table 2-3
+G-34,ESP32S Wi-Fi band,2.4,GHz,spec quoted,GUI Table 2-3
+G-35,obstacles the GUI project names in the orchards,trees and houses,,stated,GUI sec. 3.4

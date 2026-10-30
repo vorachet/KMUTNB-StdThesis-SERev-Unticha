@@ -1,0 +1,10 @@
+id,quantity,value,unit,kind,source
+T-01,SR-01 success criterion at 400 m,>= 96,%,"recovered from the measured result, not declared before the test (the thesis says so)",Thesis sec. 3.6.2 (e02 SR-01)
+T-02,SR-05: record data around the clock,24,h a day,requirement as written,Thesis sec. 3.6.2 (e02 SR-05); finding F-06
+T-03,monthly message quota of the LINE Messaging API,300,messages/month,cited,"Thesis F-10, citing LY Corporation (2025)"
+T-04,report cycle the original team set,4,h,cited; not in the GUI book's text layer,"Thesis F-10, citing Nunthasrithananon et al. (2024, pp. 66, 146)"
+T-05,messages a month at that cycle,180,messages/month,calculated by the thesis,Thesis F-10
+T-06,"LINE Notify, the push channel of the alarms, ended",31 March 2025,,cited,"Thesis F-09, citing LY Corporation (2025)"
+T-07,"internet hops under HTTPS: gateway to server plain TCP (WiFiClient), Sheets and Apps Script HTTPS",2 of 3,hops,the thesis's reading of the GUI code,Thesis F-08
+T-08,"software stacks in use: C++ on the ESP32 Arduino core, Node-RED, Flux of InfluxDB 2.0, NuxtJS with Vue.js, Firebase, Google Apps Script",6,stacks,the thesis's count,Thesis F-16
+T-09,parts of one pole station and their supplies (Table 10) and of the gateway and server (Table 12),see data/t10 and data/t12,,the thesis's reading of P2 and GUI,Thesis Tables 10 and 12
