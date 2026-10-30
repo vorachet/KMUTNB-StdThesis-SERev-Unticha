@@ -1,0 +1,78 @@
+id,source,page,subject,quantity,value,unit,kind
+F01,pole.pdf,63,pole system,voltage_across_load,11.32,V,measured
+F02,pole.pdf,63,pole system,current_into_load,0.21,A,measured
+F03,pole.pdf,63,pole system,power,2.3772,W,calculated
+F04,pole.pdf,105,battery 12V 12Ah,energy_supplied_in_test,31.7821,Wh,measured
+F05,pole.pdf,105,battery 12V 12Ah,hours_supplied_from_full_charge,16,h,stated
+F06,pole.pdf,59,pole,height,200,cm,design
+F07,pole.pdf,59,pole,width,5.08,cm,design
+F08,pole.pdf,59,pole,base,50 x 50,cm,design
+F09,pole.pdf,59,pole,esp32_boards,1,,design
+F10,pole.pdf,59,pole,solar_cells,2,,design
+F11,pole.pdf,59,pole,air_pressure_module,BMP280,,design
+F12,pole.pdf,137,pole firmware,interval1,1000,ms,code
+F13,pole.pdf,137,pole firmware,interval2,200,ms,code
+F14,pole.pdf,137,pole firmware,interval3,200,ms,code
+F15,pole.pdf,138,pole firmware,Lora,200,ms,code
+F16,pole.pdf,156,pole firmware,modbus_baud,4800,baud,code
+F17,pole.pdf,156,pole firmware,modbus_pins,"16, 17",GPIO,code
+F18,pole.pdf,136,pole firmware,sender_address,0x01,,code
+F19,pole.pdf,139,pole firmware,frame_buffer,90,chars,code
+F20,pole.pdf,156,pole firmware,lora_frequency,433,MHz,code
+F21,pole.pdf,156,pole firmware,float_switch_pin,35,GPIO,code
+F22,pole.pdf,138,pole firmware,rs485_address_01,SH30,,code
+F23,pole.pdf,138,pole firmware,rs485_address_02,in71,,code
+F24,pole.pdf,138,pole firmware,rs485_address_03,WindSpeed,,code
+F25,pole.pdf,30,LoRa in Thailand,licence_free_band,920-925,MHz,stated
+F26,pole.pdf,30,LoRa in Thailand,max_transmit_power,20,dBm,stated
+F27,pole.pdf,30,SX1278,supply_voltage,1.8-3.7,V,spec
+F28,pole.pdf,36,7-in-1 soil sensor,supply_voltage,4.5-30,V,spec
+F29,pole.pdf,36,7-in-1 soil sensor,power,< 0.5,W,spec
+F30,pole.pdf,36,7-in-1 soil sensor,enclosure,IP68,,spec
+F31,pole.pdf,36,7-in-1 soil sensor,npk_range,1-2999,mg/kg,spec
+F32,pole.pdf,34,wind speed sensor,range,0-60,m/s,spec
+F33,pole.pdf,34,wind speed sensor,supply_voltage,10-30,V DC,spec
+F34,pole.pdf,35,wind speed sensor,response_time,<= 2,s,spec
+F35,pole.pdf,37,SHT30 sensor,supply_voltage,10-30,V DC,spec
+F36,pole.pdf,37,SHT30 sensor,power,< 0.4,W,spec
+F37,pole.pdf,37,SHT30 sensor,humidity_accuracy,+-2,%RH,spec
+F38,pole.pdf,37,SHT30 sensor,temperature_accuracy,+-0.3,C,spec
+F39,pole.pdf,39,BMP280 sensor,pressure_accuracy,+-1,hPa,spec
+F40,pole.pdf,161,pole project budget,printed_total,156858,THB,stated
+F41,sw.pdf,8,project scope,lora_range,400,m,scope
+F42,sw.pdf,8,project scope,sensor_values_shown,14,,scope
+F43,sw.pdf,11,gateway wiring LoRa SX1278 to ESP32S,VCC,3.3V,,wiring
+F44,sw.pdf,11,gateway wiring LoRa SX1278 to ESP32S,SCK,GPIO 18,,wiring
+F45,sw.pdf,11,gateway wiring LoRa SX1278 to ESP32S,MISO,GPIO 19,,wiring
+F46,sw.pdf,11,gateway wiring LoRa SX1278 to ESP32S,MOSI,GPIO 23,,wiring
+F47,sw.pdf,11,gateway wiring LoRa SX1278 to ESP32S,NSS (CS),GPIO 13,,wiring
+F48,sw.pdf,11,gateway wiring LoRa SX1278 to ESP32S,RST,GPIO 14,,wiring
+F49,sw.pdf,11,gateway wiring LoRa SX1278 to ESP32S,DIO0,GPIO 15,,wiring
+F50,sw.pdf,11,gateway wiring BME280 to ESP32S,VCC,3.3V,,wiring
+F51,sw.pdf,11,gateway wiring BME280 to ESP32S,SCL,GPIO 22,,wiring
+F52,sw.pdf,11,gateway wiring BME280 to ESP32S,SDA,GPIO 21,,wiring
+F53,sw.pdf,15,gateway,watchdog_restart_after,200,s,design
+F54,sw.pdf,21,LoRa trial 400 m,rssi_average,-84.16,dBm,result
+F55,sw.pdf,22,LoRa trial 400 m,snr_average,6.466,dB,result
+F56,sw.pdf,29,LoRa trial 60 m,rssi_average,-46.7,dBm,result
+F57,sw.pdf,30,LoRa trial 60 m,snr_average,9.8,dB,result
+F58,sw.pdf,35,CasaOS server,days_observed,105,days,result
+F59,sw.pdf,35,CasaOS server,days_down,5,days,result
+F60,sw.pdf,35,CasaOS server,failure_rate,4.76,%,result
+F61,sw.pdf,35,CasaOS server,success_rate,95.24,%,result
+F62,sw.pdf,38,Node-RED flow,station_addresses_checked,1-16,,design
+F63,sw.pdf,110,4-in-1 soil survey instrument,temperature_range,-9-50,C,spec
+F64,sw.pdf,113,4-in-1 soil survey instrument,moisture_class_DRY+,0-20,,spec
+F65,sw.pdf,113,4-in-1 soil survey instrument,moisture_class_DRY,21-40,,spec
+F66,sw.pdf,113,4-in-1 soil survey instrument,moisture_class_NOR,41-60,,spec
+F67,sw.pdf,113,4-in-1 soil survey instrument,moisture_class_WET,61-82,,spec
+F68,sw.pdf,113,4-in-1 soil survey instrument,moisture_class_WET+,81-100,,spec
+F69,sw.pdf,138,reported problem,problem_1,การล่มของเซิร์ฟเวอร์ในบางครั้ง,,problem
+F70,sw.pdf,138,reported problem,problem_2,การสอบเทียบข้อมูล N P K,,problem
+F71,sw.pdf,138,reported problem,problem_3,เกษตรกรถอดปลั๊กเกตเวย์,,problem
+F72,sw.pdf,138,reported problem,problem_4,เกษตรกรใช้งานเว็บไซต์ไม่เป็น,,problem
+F73,sw.pdf,138,suggestion,suggestion_1,เปลี่ยนไปใช้งานเซิร์ฟเวอร์ที่ตึก Techno Park,,suggestion
+F74,sw.pdf,138,suggestion,suggestion_2,ส่งตัวอย่างดินไปตรวจสอบที่หน่วยงานที่เชื่อถือได้,,suggestion
+F75,sw.pdf,138,suggestion,suggestion_3,อธิบายการทำงานของเสา IoT ให้เกษตรกรเข้าใจ,,suggestion
+F76,sw.pdf,138,suggestion,suggestion_4,สอนเกษตรกรใช้งานเว็บไซต์,,suggestion
+F77,sw.pdf,139,GUI project budget,printed_total,21420,THB,stated

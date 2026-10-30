@@ -1,5 +1,0 @@
-source,citation,file,what_it_holds
-P2,"Tuntawisut, N., Kurapa, P., & Keeratipitayanusarn, V. (2024). Development of IoT poles for monitoring and analyzing data in orchards. KMUTNB bachelor's thesis.",KMUTNB-Program/P2 (Pole).pdf (same file as R1/pole.pdf),"the pole: design, power measurement, battery test, sensor tests, firmware listing, budget appendix C"
-GUI,"Nunthasrithananon, T., Suyawa, A., & Bubpha, T. (2024). Design and development of a GUI for an automated farm. KMUTNB bachelor's thesis.",KMUTNB-Program/R1/<Thai file name>.docx,"the gateway, server, web app: link budget, LoRa trials, calibration, gateway and server code"
-GUIS,"The defence slides of the GUI project (same authors, 2024).",KMUTNB-Program/R1/sw.pdf,"the same trials and calibration, the CasaOS server log, the site list, the GUI project's budget"
-TH,"The student's reverse-engineering thesis (Thesis.md), for values it states from sources whose text layer does not show them.",KMUTNB-StdThesis-SERev-Unticha/Thesis.md,"the LINE quota, the 4-hour report cycle, SR-01 and SR-05 as written"

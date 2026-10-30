@@ -1,0 +1,312 @@
+layer,element_kind,element,element_th,statement_id,source,page,statement
+OA,activity,Change_Soil_And_Weather,ดินและอากาศเปลี่ยนแปลง,ST010,pole.pdf,17,1.5.3 สภาพแวดล้อมที่แปรปรวน ส่งผลโดยตรงต่อผลผลิตของสวนทุเรียน
+OA,activity,Change_Soil_And_Weather,ดินและอากาศเปลี่ยนแปลง,ST031,pole.pdf,60,เสา IOT ต้องไปติดตั้งในสวนทุเรียนบริเวณกลางแจ้งที่แสงแดดส่องถึงและอาจจะมีฝนตก
+OA,activity,Reach_A_Harmful_Condition,เกิดสภาวะที่เป็นผลเสีย,ST010,pole.pdf,17,1.5.3 สภาพแวดล้อมที่แปรปรวน ส่งผลโดยตรงต่อผลผลิตของสวนทุเรียน
+OA,activity,Reach_A_Harmful_Condition,เกิดสภาวะที่เป็นผลเสีย,ST011,pole.pdf,17,การไม่มีระบบตรวจวัดและแจ้ง เตือนล่วงหน้า อาจทำให้เกษตรกรไม่สามารถรับมือได้ทันท่วงที
+OA,activity,Watch_The_Orchard_From_Afar,เฝ้าดูสวนจากที่ไกล,ST001,pole.pdf,16,เกษตรกรประสบปัญหาในการตรวจสอบและดูแลพืชผลอย่างมีประสิทธิภาพ
+OA,activity,Watch_The_Orchard_From_Afar,เฝ้าดูสวนจากที่ไกล,ST050,pole.pdf,128,ช่วยให้เกษตรกรสามารถลดการใช้แรงงานคนในการตรวจสอบสภาพแวดล้อมของสวนได้
+OA,activity,Decide_Water_And_Fertiliser,ตัดสินใจเรื่องน้ำและปุ๋ย,ST004,pole.pdf,16,เพื่อทำการวิเคราะห์ข้อมูลการให้น้ำ ให้ปุ๋ย สภาพแวดล้อมของสวน
+OA,activity,Decide_Water_And_Fertiliser,ตัดสินใจเรื่องน้ำและปุ๋ย,ST046,pole.pdf,112,สอนวิธีการดูค่าต่างๆผ่านแอพพลิเคชั่นไลน์และเว็บไซต์เพื่อให้เกษตรกรสามารถวิเคราะห์ข้อมูลในการดูแลพืช ผลผลิต
+OA,activity,Look_Up_The_Orchard,ดูข้อมูลสวน,ST008,pole.pdf,17,1.3.5 สามารถดูค่าจากเซ็นเซอร์ผ่านระบบออนไลน์
+OA,activity,Look_Up_The_Orchard,ดูข้อมูลสวน,ST014,pole.pdf,17,1.7.1 สามารถดูค่าต่าง ๆ แบบ Real Time ได้ผ่านเว็บไซต์
+OA,activity,Read_The_Orchard_At_A_Glance,อ่านสภาพสวนได้ในแวบเดียว,ST014,pole.pdf,17,1.7.1 สามารถดูค่าต่าง ๆ แบบ Real Time ได้ผ่านเว็บไซต์
+OA,activity,Read_The_Orchard_At_A_Glance,อ่านสภาพสวนได้ในแวบเดียว,ST102,sw.pdf,6,สร้างหน้าอินเทอร์เฟซที่เข้าใจเกี่ยวกับการแสดงค่าเซนเซอร์ต่างๆ
+OA,activity,Say_What_Is_Hard_To_Read,บอกส่วนที่อ่านยาก,ST151,sw.pdf,138,เกษตรกรใช้งานเว็บไซต์ไม่เป็น
+OA,activity,Water_Or_Shade_The_Trees,รดน้ำหรือพรางแสงให้ต้นทุเรียน,ST013,pole.pdf,17,การให้ น้ำและปุ๋ยอย่างเหมาะสม
+OA,activity,Spot_The_Harm,พบสภาวะที่เป็นผลเสีย,ST011,pole.pdf,17,การไม่มีระบบตรวจวัดและแจ้ง เตือนล่วงหน้า อาจทำให้เกษตรกรไม่สามารถรับมือได้ทันท่วงที
+OA,activity,Set_The_Budget,กำหนดงบประมาณ,ST063,pole.pdf,160,งบประมาณที่ใช้ในโครงงานปริญญานิพนธ์
+OA,activity,Set_The_Budget,กำหนดงบประมาณ,ST155,sw.pdf,139,งบประมาณในการจัดทำ
+OA,activity,Buy_The_Equipment,ซื้ออุปกรณ์,ST063,pole.pdf,160,งบประมาณที่ใช้ในโครงงานปริญญานิพนธ์
+OA,activity,Buy_The_Equipment,ซื้ออุปกรณ์,ST155,sw.pdf,139,งบประมาณในการจัดทำ
+OA,activity,Pay_The_Running_Costs,จ่ายค่าดำเนินงาน,,,,
+OA,activity,Keep_The_Stations_Working,ดูแลให้สถานีทำงาน,ST047,pole.pdf,113,ภาพที่ 4-ตรวจเช็คตัวรับ-ส่งสัญญาณ
+OA,activity,Keep_The_Stations_Working,ดูแลให้สถานีทำงาน,ST149,sw.pdf,138,การล่มของเซิร์ฟเวอร์ในบางครั้ง
+OA,activity,Keep_The_Stations_Working,ดูแลให้สถานีทำงาน,ST150,sw.pdf,138,เกษตรกรถอดปลั๊กเกตเวย์
+OA,MoE,Orchard_Watched_From_Afar,สวนถูกเฝ้าดูจากที่ไกล,ST001,pole.pdf,16,เกษตรกรประสบปัญหาในการตรวจสอบและดูแลพืชผลอย่างมีประสิทธิภาพ
+OA,MoE,Orchard_Watched_From_Afar,สวนถูกเฝ้าดูจากที่ไกล,ST002,pole.pdf,16,ช่วยให้เกษตรกรสามารถตรวจสอบและจัดการสวนทุเรียนได้ดียิ่งขึ้น
+OA,MoE,Orchard_Watched_From_Afar,สวนถูกเฝ้าดูจากที่ไกล,ST050,pole.pdf,128,ช่วยให้เกษตรกรสามารถลดการใช้แรงงานคนในการตรวจสอบสภาพแวดล้อมของสวนได้
+OA,MoE,Orchard_Watched_From_Afar,สวนถูกเฝ้าดูจากที่ไกล,ST108,sw.pdf,8,LoRa module สามารถรับ-ส่งข้อมูลได้ในระยะที่กำหนด (400เมตร)
+OA,MoE,Orchard_Read_At_A_Glance,สวนอ่านได้ในแวบเดียว,ST012,pole.pdf,17,1.6.1 เกษตรกรสามารถเข้าถึงและใช้งานข้อมูลที่ได้จากเสา IoT ผ่านแพลตฟอร์มออนไลน์ได้สะดวก
+OA,MoE,Orchard_Read_At_A_Glance,สวนอ่านได้ในแวบเดียว,ST101,sw.pdf,6,สร้างหน้าอินเทอร์เฟซบนหน้าจอที่สามารถใช้งานได้ง่าย
+OA,MoE,Orchard_Read_At_A_Glance,สวนอ่านได้ในแวบเดียว,ST112,sw.pdf,8,ผู้ใช้งานสามารถเข้าใจในอินเทอร์เฟซต่างๆบนหน้าจอ
+OA,MoE,Orchard_Read_At_A_Glance,สวนอ่านได้ในแวบเดียว,ST147,sw.pdf,137,เว็บแอปพลิเคชั่นง่ายต่อการใช้งาน
+OA,MoE,Harm_Known_In_Time,รู้ภัยทันเวลา,ST011,pole.pdf,17,การไม่มีระบบตรวจวัดและแจ้ง เตือนล่วงหน้า อาจทำให้เกษตรกรไม่สามารถรับมือได้ทันท่วงที
+OA,MoE,Watching_Kept_Affordable,การเฝ้าดูอยู่ในงบที่จ่ายไหว,ST009,pole.pdf,17,1.5.1 ระบบ IoT ที่มีอยู่ในตลาดส่วนใหญ่ยังมีราคาสูง และอาจไม่เหมาะสมกับการใช้งานในสวนผลไม้ของ เกษตรกรทั่วไป
+SA,function,Sense_Soil_And_Weather,ตรวจวัดดินและอากาศ,ST006,pole.pdf,16,1.3.2 เก็บรวบรวมข้อมูลต่าง ๆ จากเซ็นเซอร์เพื่อนำมาใช้วิเคราะห์การดูแลต้นทุเรียน
+SA,function,Sense_Soil_And_Weather,ตรวจวัดดินและอากาศ,ST110,sw.pdf,8,การสอบเทียบเซ็นเซอร์ เพื่อให้ได้ค่าที่เชื่อถือได้
+SA,function,Sense_Soil_And_Weather,ตรวจวัดดินและอากาศ,ST146,sw.pdf,137,ข้อมูลจากเซ็นเซอร์มีความน่าเชื่อถือ
+SA,function,Sense_Soil_And_Weather,ตรวจวัดดินและอากาศ,ST153,sw.pdf,138,การสอบเทียบข้อมูล N P K
+SA,function,Send_Readings_Across_The_Orchard,ส่งค่าวัดข้ามสวน,ST003,pole.pdf,16,การสร้างระบบที่สามารถเก็บรวบรวมข้อมูลสภาพแวดล้อมต่าง ๆ และส่ง ข้อมูลเหล่านี้ไปยังศูนย์กลางข้อมูลแบบเรียลไทม์
+SA,function,Send_Readings_Across_The_Orchard,ส่งค่าวัดข้ามสวน,ST007,pole.pdf,16,1.3.3 พัฒนาระบบสำหรับการส่งข้อมูลจากเซ็นเซอร์มายังฐานข้อมูลกลาง
+SA,function,Send_Readings_Across_The_Orchard,ส่งค่าวัดข้ามสวน,ST105,sw.pdf,7,microcontroller สามารถส่งข้อมูลผ่าน LoRa modules ได้
+SA,function,Send_Readings_Across_The_Orchard,ส่งค่าวัดข้ามสวน,ST108,sw.pdf,8,LoRa module สามารถรับ-ส่งข้อมูลได้ในระยะที่กำหนด (400เมตร)
+SA,function,Keep_The_Station_Powered,รักษาพลังงานของสถานี,ST026,pole.pdf,43,มีคุณสมบัติคอยควบคุมการ ชาร์จไฟฟ้าจากแผงโซล่าเซลล์เข้าสู่แบตเตอรี่
+SA,function,Keep_The_Station_Powered,รักษาพลังงานของสถานี,ST037,pole.pdf,101,ตารางที่ 4-1 ทดลองการใช้งานแบตเตอรี่
+SA,function,Keep_The_Station_Powered,รักษาพลังงานของสถานี,ST039,pole.pdf,105,สามารถจ่ายพลังงานได้ทั้งหมด 16 ชั่วโมง นับตั้งแต่แบตเตอรี่ชาร์จเต็ม
+SA,function,Record_The_Readings,บันทึกค่าวัด,ST003,pole.pdf,16,การสร้างระบบที่สามารถเก็บรวบรวมข้อมูลสภาพแวดล้อมต่าง ๆ และส่ง ข้อมูลเหล่านี้ไปยังศูนย์กลางข้อมูลแบบเรียลไทม์
+SA,function,Record_The_Readings,บันทึกค่าวัด,ST005,pole.pdf,16,1.2.3 เพื่อบันทึกและรายงานผลการตรวจวัดค่าในสวนทุเรียน
+SA,function,Record_The_Readings,บันทึกค่าวัด,ST103,sw.pdf,6,บันทึก ข้อมูลเก็บไว้เป็นสถิติ
+SA,function,Record_The_Readings,บันทึกค่าวัด,ST128,sw.pdf,39,Save Raw data to first database
+SA,function,Show_The_Orchard_Status,แสดงสถานะสวน,ST014,pole.pdf,17,1.7.1 สามารถดูค่าต่าง ๆ แบบ Real Time ได้ผ่านเว็บไซต์
+SA,function,Show_The_Orchard_Status,แสดงสถานะสวน,ST111,sw.pdf,8,สามารถแสดงค่าของเซนเซอร์ทั้ง 14 ตัว สภาพอากาศ และพิกัดที่ติดตั้งเสาทั้งหมด
+SA,function,Show_The_Orchard_Status,แสดงสถานะสวน,ST138,sw.pdf,76,ภาพรวมของเสาที่ติดตั้งในจังหวัดนนทบุรี
+SA,function,Show_The_Orchard_Status,แสดงสถานะสวน,ST148,sw.pdf,137,เว็บแอปพลิเคชั่นสามารถแสดงผลข้อมูลได้แบบเรียลไทม์
+SA,function,Detect_A_Harmful_Condition,ตรวจจับสภาวะที่เป็นผลเสีย,ST011,pole.pdf,17,การไม่มีระบบตรวจวัดและแจ้ง เตือนล่วงหน้า อาจทำให้เกษตรกรไม่สามารถรับมือได้ทันท่วงที
+SA,function,Send_The_Warning,ส่งคำเตือน,ST011,pole.pdf,17,การไม่มีระบบตรวจวัดและแจ้ง เตือนล่วงหน้า อาจทำให้เกษตรกรไม่สามารถรับมือได้ทันท่วงที
+SA,function,Send_The_Warning,ส่งคำเตือน,ST127,sw.pdf,38,Warn to Line Notify
+SA,function,Host_The_Records,ให้บริการบันทึก,ST107,sw.pdf,7,Server มีความเสถียร
+SA,function,Host_The_Records,ให้บริการบันทึก,ST122,sw.pdf,33,CasaOS Server
+SA,function,Host_The_Records,ให้บริการบันทึก,ST145,sw.pdf,137,เซิร์ฟเวอร์สามารถใช้งานได้อย่างมีประสิทธิภาพ
+SA,function,Report_The_Station_Health,รายงานสุขภาพสถานี,ST051,pole.pdf,136,Adafruit_INA219.h
+SA,function,Report_The_Station_Health,รายงานสุขภาพสถานี,ST061,pole.pdf,161,"Volt meter Module INA219 100 10 1,000"
+SA,function,Accept_The_Repaired_Station,รับสถานีที่ซ่อมแล้ว,,,,
+SA,function,Register_A_New_Station,ลงทะเบียนสถานีใหม่,ST141,sw.pdf,88,Homepage Set Stations Overall
+SA,function,Register_A_New_Station,ลงทะเบียนสถานีใหม่,ST142,sw.pdf,92,Set position of Station
+SA,function,Share_The_Radio_Channel,ใช้ช่องสัญญาณวิทยุร่วมกัน,ST016,pole.pdf,29,ระบบจะใช้สเปกตรัมวิทยุในช่วงคลื่นไม่ลงทะเบียนทาง อุตสาหกรรม วิทยาศาสตร์
+SA,function,Share_The_Radio_Channel,ใช้ช่องสัญญาณวิทยุร่วมกัน,ST117,sw.pdf,12,ทำการนับ 200 วินาทีเพื่อป้องกัน การส่งข้อมูลซ้อนทับกัน
+SA,function,Check_Who_Is_Asking,ตรวจสอบผู้ขอเข้าถึง,ST106,sw.pdf,7,GUI ง่ายต่อการใช้งานจริงและสามารถเก็บข้อมูลผู้ใช้ได้
+SA,function,Check_Who_Is_Asking,ตรวจสอบผู้ขอเข้าถึง,ST140,sw.pdf,79,Sign in & Sign up
+SA,function,Protect_The_Records_In_Transit,ปกป้องบันทึกระหว่างส่ง,,,,
+SA,function,Keep_A_Second_Copy,เก็บสำเนาที่สอง,ST129,sw.pdf,39,Data Analyze Save data to second database Warn to Line Notify
+SA,function,Keep_A_Second_Copy,เก็บสำเนาที่สอง,ST134,sw.pdf,42,G-sheet node Send data to Google Sheet
+SA,function,Join_The_Station_To_The_Server,เชื่อมสถานีกับเซิร์ฟเวอร์,ST109,sw.pdf,8,การดึงข้อมูลจาก LoRa module เข้าไปในระบบ Server
+SA,function,Join_The_Station_To_The_Server,เชื่อมสถานีกับเซิร์ฟเวอร์,ST142,sw.pdf,92,Set position of Station
+SA,function,Bring_The_Station_Online,นำสถานีขึ้นออนไลน์,ST049,pole.pdf,127,ภาพที่ 4-ติดตั้งตัวรับ-ส่งข้อมูล
+SA,function,Receive_Readings_At_The_Farmhouse,รับค่าวัดที่บ้านสวน,ST115,sw.pdf,12,รอรับข้อมูล ทำการส่งข้อมูล ขึ้นเซิร์ฟเวอร์
+SA,function,Receive_Readings_At_The_Farmhouse,รับค่าวัดที่บ้านสวน,ST156,sw.pdf,141,ระยะทางจากเสาถึง Gateway ประมาณ 50 เมตร
+SA,function,Mend_Missing_Readings,ซ่อมค่าวัดที่ขาดหาย,ST135,sw.pdf,42,Interpolation method & send data to Google Sheet
+SA,function,Mend_Missing_Readings,ซ่อมค่าวัดที่ขาดหาย,ST136,sw.pdf,45,Clean Missing Data
+SA,function,Bill_The_Running_Costs,เรียกเก็บค่าดำเนินงาน,,,,
+SA,function,Give_Sunlight,ให้แสงแดด,ST031,pole.pdf,60,เสา IOT ต้องไปติดตั้งในสวนทุเรียนบริเวณกลางแจ้งที่แสงแดดส่องถึงและอาจจะมีฝนตก
+SA,function,Give_Sunlight,ให้แสงแดด,ST048,pole.pdf,125,ภาพที่ 4-ติดตั้งเสาและหันไปทางที่รับแสงแดด
+SA,function,Change_Soil_And_Weather,ดินและอากาศเปลี่ยนแปลง,ST010,pole.pdf,17,1.5.3 สภาพแวดล้อมที่แปรปรวน ส่งผลโดยตรงต่อผลผลิตของสวนทุเรียน
+SA,function,Change_Soil_And_Weather,ดินและอากาศเปลี่ยนแปลง,ST031,pole.pdf,60,เสา IOT ต้องไปติดตั้งในสวนทุเรียนบริเวณกลางแจ้งที่แสงแดดส่องถึงและอาจจะมีฝนตก
+SA,function,Reach_A_Harmful_Condition,เกิดสภาวะที่เป็นผลเสีย,ST010,pole.pdf,17,1.5.3 สภาพแวดล้อมที่แปรปรวน ส่งผลโดยตรงต่อผลผลิตของสวนทุเรียน
+SA,function,Reach_A_Harmful_Condition,เกิดสภาวะที่เป็นผลเสีย,ST011,pole.pdf,17,การไม่มีระบบตรวจวัดและแจ้ง เตือนล่วงหน้า อาจทำให้เกษตรกรไม่สามารถรับมือได้ทันท่วงที
+SA,function,Read_The_Status,อ่านสถานะ,ST046,pole.pdf,112,สอนวิธีการดูค่าต่างๆผ่านแอพพลิเคชั่นไลน์และเว็บไซต์เพื่อให้เกษตรกรสามารถวิเคราะห์ข้อมูลในการดูแลพืช ผลผลิต
+SA,function,Read_The_Status,อ่านสถานะ,ST152,sw.pdf,138,สอนเกษตรกรใช้งานเว็บไซต์
+SA,function,Decide_Water_And_Fertiliser,ตัดสินใจเรื่องน้ำและปุ๋ย,ST004,pole.pdf,16,เพื่อทำการวิเคราะห์ข้อมูลการให้น้ำ ให้ปุ๋ย สภาพแวดล้อมของสวน
+SA,function,Decide_Water_And_Fertiliser,ตัดสินใจเรื่องน้ำและปุ๋ย,ST046,pole.pdf,112,สอนวิธีการดูค่าต่างๆผ่านแอพพลิเคชั่นไลน์และเว็บไซต์เพื่อให้เกษตรกรสามารถวิเคราะห์ข้อมูลในการดูแลพืช ผลผลิต
+SA,function,Water_Or_Shade_The_Trees,รดน้ำหรือพรางแสงให้ต้นทุเรียน,ST013,pole.pdf,17,การให้ น้ำและปุ๋ยอย่างเหมาะสม
+SA,function,Sign_In_To_The_Records,เข้าสู่ระบบเพื่อดูบันทึก,ST140,sw.pdf,79,Sign in & Sign up
+SA,function,Say_What_Is_Hard_To_Read,บอกส่วนที่อ่านยาก,ST151,sw.pdf,138,เกษตรกรใช้งานเว็บไซต์ไม่เป็น
+SA,function,Plan_More_Stations,วางแผนเพิ่มสถานี,ST141,sw.pdf,88,Homepage Set Stations Overall
+SA,function,Carry_A_Message_To_The_Farmer,ส่งข้อความถึงเกษตรกร,ST046,pole.pdf,112,สอนวิธีการดูค่าต่างๆผ่านแอพพลิเคชั่นไลน์และเว็บไซต์เพื่อให้เกษตรกรสามารถวิเคราะห์ข้อมูลในการดูแลพืช ผลผลิต
+SA,function,Carry_A_Message_To_The_Farmer,ส่งข้อความถึงเกษตรกร,ST127,sw.pdf,38,Warn to Line Notify
+SA,function,Set_The_Budget,กำหนดงบประมาณ,ST063,pole.pdf,160,งบประมาณที่ใช้ในโครงงานปริญญานิพนธ์
+SA,function,Set_The_Budget,กำหนดงบประมาณ,ST155,sw.pdf,139,งบประมาณในการจัดทำ
+SA,function,Buy_The_Equipment,ซื้ออุปกรณ์,ST063,pole.pdf,160,งบประมาณที่ใช้ในโครงงานปริญญานิพนธ์
+SA,function,Buy_The_Equipment,ซื้ออุปกรณ์,ST155,sw.pdf,139,งบประมาณในการจัดทำ
+SA,function,Pay_The_Running_Costs,จ่ายค่าดำเนินงาน,,,,
+SA,function,Find_The_Faulty_Part,หาชิ้นส่วนที่เสีย,,,,
+SA,function,Raise_The_Pole,ตั้งเสา,ST030,pole.pdf,59,ตัวเสา IOT นี้ถูกออกแบบให้สามารถพับเสาได้ เนื่องจากทำให้ในการขนย้ายเสามีความสะดวกมากขึ้น
+SA,function,Raise_The_Pole,ตั้งเสา,ST036,pole.pdf,72,3.8.1 ทำการขึ้นโครงสร้างของเสา IOT และประกอบเสา IOT
+SA,function,Raise_The_Pole,ตั้งเสา,ST048,pole.pdf,125,ภาพที่ 4-ติดตั้งเสาและหันไปทางที่รับแสงแดด
+SA,MoP,Readings_Delivered_At_400_m_Pct,สัดส่วนค่าวัดที่ส่งถึงที่ระยะ_400_m_pct,ST108,sw.pdf,8,LoRa module สามารถรับ-ส่งข้อมูลได้ในระยะที่กำหนด (400เมตร)
+SA,MoP,Readings_Delivered_At_400_m_Pct,สัดส่วนค่าวัดที่ส่งถึงที่ระยะ_400_m_pct,ST119,sw.pdf,16,ระยะ 400 เมตร
+SA,MoP,Readings_Delivered_At_400_m_Pct,สัดส่วนค่าวัดที่ส่งถึงที่ระยะ_400_m_pct,ST144,sw.pdf,137,เกตเวย์สามารถรับ-ส่งข้อมูลได้ในระยะที่ตกลงกันไว้
+SA,MoP,Battery_Hours_Short_Of_A_Day_h,ชั่วโมงที่ขาดจากหนึ่งวันของแบตเตอรี่_h,ST039,pole.pdf,105,สามารถจ่ายพลังงานได้ทั้งหมด 16 ชั่วโมง นับตั้งแต่แบตเตอรี่ชาร์จเต็ม
+SA,MoP,Warning_Messages_Per_Month,จำนวนข้อความเตือนต่อเดือน,ST127,sw.pdf,38,Warn to Line Notify
+SA,MoP,Server_Uptime_Pct,สัดส่วนเวลาทำงานของเซิร์ฟเวอร์_pct,ST123,sw.pdf,35,"Over a period of 105 days, The server was down for 5 days"
+SA,MoP,Server_Uptime_Pct,สัดส่วนเวลาทำงานของเซิร์ฟเวอร์_pct,ST124,sw.pdf,35,Success rate = 95.24%
+LA,function,Poll_The_Field_Bus_Sensors,สอบถามเซ็นเซอร์บนบัสภาคสนาม,ST032,pole.pdf,60,"วงจร I2C BME280 และ GY-30 , วงจรแปลงไฟ , วงจร MOSFET และ วงจรของ Sensor ที่ต่อกับ Max485 Module"
+LA,function,Poll_The_Field_Bus_Sensors,สอบถามเซ็นเซอร์บนบัสภาคสนาม,ST057,pole.pdf,149,RS485Address03 Read_Wind(); RS485Address01 readSH30(); RS485Address02 readSoil();
+LA,function,Poll_The_Field_Bus_Sensors,สอบถามเซ็นเซอร์บนบัสภาคสนาม,ST104,sw.pdf,7,microcontroller สามารถอ่านค่าจาก sensor ได้ถูกต้อง
+LA,function,Read_The_Board_Sensors,อ่านเซ็นเซอร์บนบอร์ด,ST032,pole.pdf,60,"วงจร I2C BME280 และ GY-30 , วงจรแปลงไฟ , วงจร MOSFET และ วงจรของ Sensor ที่ต่อกับ Max485 Module"
+LA,function,Read_The_Board_Sensors,อ่านเซ็นเซอร์บนบอร์ด,ST104,sw.pdf,7,microcontroller สามารถอ่านค่าจาก sensor ได้ถูกต้อง
+LA,function,Pack_The_Reading_Frame,จัดชุดเฟรมค่าวัด,ST055,pole.pdf,143,"toSend.toCharArray(dataToSend, sizeof(dataToSend));"
+LA,function,Compute_Time_On_Air,คำนวณเวลาออกอากาศ,,,,
+LA,function,Estimate_Received_Power,ประมาณกำลังที่รับได้,ST108,sw.pdf,8,LoRa module สามารถรับ-ส่งข้อมูลได้ในระยะที่กำหนด (400เมตร)
+LA,function,Estimate_Received_Power,ประมาณกำลังที่รับได้,ST120,sw.pdf,21,RSSI average = - 84.16 dBm
+LA,function,Estimate_Delivered_Share,ประมาณสัดส่วนที่ส่งถึง,ST108,sw.pdf,8,LoRa module สามารถรับ-ส่งข้อมูลได้ในระยะที่กำหนด (400เมตร)
+LA,function,Estimate_Delivered_Share,ประมาณสัดส่วนที่ส่งถึง,ST119,sw.pdf,16,ระยะ 400 เมตร
+LA,function,Estimate_Channel_Capacity,ประมาณความจุช่องสัญญาณ,ST117,sw.pdf,12,ทำการนับ 200 วินาทีเพื่อป้องกัน การส่งข้อมูลซ้อนทับกัน
+LA,function,Estimate_Channel_Capacity,ประมาณความจุช่องสัญญาณ,ST125,sw.pdf,38,Check Address 1 - 16
+LA,function,Schedule_Channel_Access,จัดการเข้าถึงช่องสัญญาณ,ST117,sw.pdf,12,ทำการนับ 200 วินาทีเพื่อป้องกัน การส่งข้อมูลซ้อนทับกัน
+LA,function,Schedule_The_Wake_Cycle,กำหนดรอบการตื่น,ST053,pole.pdf,137,const long interval2 = 200;
+LA,function,Compute_Average_Load,คำนวณภาระเฉลี่ย,ST034,pole.pdf,62,ทางผู้จัดทำได้ทำการหาค่ากำลังไฟฟ้าของระบบที่ใช้โดยการวัดค่า ต่าง ๆ จากมัลติมิเตอร์
+LA,function,Compute_Average_Load,คำนวณภาระเฉลี่ย,ST035,pole.pdf,63,𝑃= 11.32 × 0.21 𝑃= 2.3772 𝑊
+LA,function,Compute_Endurance_Without_Sun,คำนวณเวลาทำงานโดยไม่มีแดด,ST038,pole.pdf,105,แบตเตอรี่ขนาด 12V 12Ah สามารถจ่ายพลังงานให้กับระบบได้ทั้งหมด 31.7821Wh
+LA,function,Compute_Endurance_Without_Sun,คำนวณเวลาทำงานโดยไม่มีแดด,ST039,pole.pdf,105,สามารถจ่ายพลังงานได้ทั้งหมด 16 ชั่วโมง นับตั้งแต่แบตเตอรี่ชาร์จเต็ม
+LA,function,Compute_Daily_Energy_Balance,คำนวณดุลพลังงานรายวัน,ST029,pole.pdf,59,Solar cell จำนวน 2 แผ่น
+LA,function,Compute_Daily_Energy_Balance,คำนวณดุลพลังงานรายวัน,ST038,pole.pdf,105,แบตเตอรี่ขนาด 12V 12Ah สามารถจ่ายพลังงานให้กับระบบได้ทั้งหมด 31.7821Wh
+LA,function,Estimate_Battery_Charge,ประมาณระดับประจุแบตเตอรี่,ST037,pole.pdf,101,ตารางที่ 4-1 ทดลองการใช้งานแบตเตอรี่
+LA,function,Check_The_Frame,ตรวจเฟรม,ST116,sw.pdf,12,เมื่อข้อมูลส่งเข้ามาเเล้ว ทำการส่งค่า “1” กลับไป หาต้นทางที่ส่งข้อมูลมา
+LA,function,Forward_Over_The_Internet,ส่งต่อผ่านอินเทอร์เน็ต,ST109,sw.pdf,8,การดึงข้อมูลจาก LoRa module เข้าไปในระบบ Server
+LA,function,Forward_Over_The_Internet,ส่งต่อผ่านอินเทอร์เน็ต,ST115,sw.pdf,12,รอรับข้อมูล ทำการส่งข้อมูล ขึ้นเซิร์ฟเวอร์
+LA,function,Assign_A_Station_Address,กำหนดที่อยู่สถานี,ST052,pole.pdf,136,const byte senderAddress = 0x01;
+LA,function,Assign_A_Station_Address,กำหนดที่อยู่สถานี,ST125,sw.pdf,38,Check Address 1 - 16
+LA,function,Keep_The_Gateway_Powered,รักษาไฟของเกตเวย์,ST062,pole.pdf,161,Adapter 5V 1A 80 5 400
+LA,function,Keep_The_Gateway_Powered,รักษาไฟของเกตเวย์,ST150,sw.pdf,138,เกษตรกรถอดปลั๊กเกตเวย์
+LA,function,Parse_And_Route_The_Reading,แยกและส่งต่อค่าวัด,ST125,sw.pdf,38,Check Address 1 - 16
+LA,function,Parse_And_Route_The_Reading,แยกและส่งต่อค่าวัด,ST131,sw.pdf,41,Switch node switch data by address
+LA,function,Fill_Missing_Readings,เติมค่าวัดที่ขาดหาย,ST126,sw.pdf,38,Check data whose value is NAN
+LA,function,Fill_Missing_Readings,เติมค่าวัดที่ขาดหาย,ST135,sw.pdf,42,Interpolation method & send data to Google Sheet
+LA,function,Store_The_Time_Series,จัดเก็บอนุกรมเวลา,ST132,sw.pdf,41,influxdb node Send data to InfluxDB
+LA,function,Copy_To_A_Second_Store,คัดลอกไปคลังที่สอง,ST129,sw.pdf,39,Data Analyze Save data to second database Warn to Line Notify
+LA,function,Copy_To_A_Second_Store,คัดลอกไปคลังที่สอง,ST134,sw.pdf,42,G-sheet node Send data to Google Sheet
+LA,function,Confirm_The_Harmful_Condition,ยืนยันสภาวะที่เป็นผลเสีย,ST129,sw.pdf,39,Data Analyze Save data to second database Warn to Line Notify
+LA,function,Push_The_Warning,พุชคำเตือน,ST127,sw.pdf,38,Warn to Line Notify
+LA,function,Push_The_Warning,พุชคำเตือน,ST133,sw.pdf,41,Prepare data for send to Line Notify
+LA,function,Count_The_Monthly_Messages,นับข้อความรายเดือน,,,,
+LA,function,Render_The_Status_Page,สร้างหน้าสถานะ,ST111,sw.pdf,8,สามารถแสดงค่าของเซนเซอร์ทั้ง 14 ตัว สภาพอากาศ และพิกัดที่ติดตั้งเสาทั้งหมด
+LA,function,Render_The_Status_Page,สร้างหน้าสถานะ,ST138,sw.pdf,76,ภาพรวมของเสาที่ติดตั้งในจังหวัดนนทบุรี
+LA,function,Render_The_Status_Page,สร้างหน้าสถานะ,ST139,sw.pdf,77,Dashboard Example page
+LA,function,Draw_The_Status_Symbols,วาดสัญลักษณ์สถานะ,ST102,sw.pdf,6,สร้างหน้าอินเทอร์เฟซที่เข้าใจเกี่ยวกับการแสดงค่าเซนเซอร์ต่างๆ
+LA,function,Estimate_Server_Availability,ประมาณสภาพพร้อมใช้ของเซิร์ฟเวอร์,ST123,sw.pdf,35,"Over a period of 105 days, The server was down for 5 days"
+LA,function,Estimate_Server_Availability,ประมาณสภาพพร้อมใช้ของเซิร์ฟเวอร์,ST124,sw.pdf,35,Success rate = 95.24%
+LA,function,Sum_The_Running_Costs,รวมค่าดำเนินงาน,,,,
+LA,function,Price_The_Internet_Link,คิดราคาลิงก์อินเทอร์เน็ต,ST060,pole.pdf,160,"Pocket WIFI 260 11 2,860"
+LA,function,Estimate_Repair_Time,ประมาณเวลาซ่อม,,,,
+LA,function,Check_The_Sign_In,ตรวจการเข้าสู่ระบบ,ST140,sw.pdf,79,Sign in & Sign up
+LA,function,Check_The_Sign_In,ตรวจการเข้าสู่ระบบ,ST143,sw.pdf,94,User UID User Data
+LA,function,Count_The_Encrypted_Hops,นับช่วงที่เข้ารหัส,,,,
+LA,function,Count_The_Software_Stacks,นับชุดซอฟต์แวร์,,,,
+LA,function,Estimate_Commissioning_Time,ประมาณเวลาเริ่มใช้งาน,,,,
+LA,function,Give_Sunlight,ให้แสงแดด,ST031,pole.pdf,60,เสา IOT ต้องไปติดตั้งในสวนทุเรียนบริเวณกลางแจ้งที่แสงแดดส่องถึงและอาจจะมีฝนตก
+LA,function,Give_Sunlight,ให้แสงแดด,ST048,pole.pdf,125,ภาพที่ 4-ติดตั้งเสาและหันไปทางที่รับแสงแดด
+LA,function,Change_Soil_And_Weather,ดินและอากาศเปลี่ยนแปลง,ST010,pole.pdf,17,1.5.3 สภาพแวดล้อมที่แปรปรวน ส่งผลโดยตรงต่อผลผลิตของสวนทุเรียน
+LA,function,Change_Soil_And_Weather,ดินและอากาศเปลี่ยนแปลง,ST031,pole.pdf,60,เสา IOT ต้องไปติดตั้งในสวนทุเรียนบริเวณกลางแจ้งที่แสงแดดส่องถึงและอาจจะมีฝนตก
+LA,function,Reach_A_Harmful_Condition,เกิดสภาวะที่เป็นผลเสีย,ST010,pole.pdf,17,1.5.3 สภาพแวดล้อมที่แปรปรวน ส่งผลโดยตรงต่อผลผลิตของสวนทุเรียน
+LA,function,Reach_A_Harmful_Condition,เกิดสภาวะที่เป็นผลเสีย,ST011,pole.pdf,17,การไม่มีระบบตรวจวัดและแจ้ง เตือนล่วงหน้า อาจทำให้เกษตรกรไม่สามารถรับมือได้ทันท่วงที
+LA,function,Read_The_Status,อ่านสถานะ,ST046,pole.pdf,112,สอนวิธีการดูค่าต่างๆผ่านแอพพลิเคชั่นไลน์และเว็บไซต์เพื่อให้เกษตรกรสามารถวิเคราะห์ข้อมูลในการดูแลพืช ผลผลิต
+LA,function,Read_The_Status,อ่านสถานะ,ST152,sw.pdf,138,สอนเกษตรกรใช้งานเว็บไซต์
+LA,function,Decide_Water_And_Fertiliser,ตัดสินใจเรื่องน้ำและปุ๋ย,ST004,pole.pdf,16,เพื่อทำการวิเคราะห์ข้อมูลการให้น้ำ ให้ปุ๋ย สภาพแวดล้อมของสวน
+LA,function,Decide_Water_And_Fertiliser,ตัดสินใจเรื่องน้ำและปุ๋ย,ST046,pole.pdf,112,สอนวิธีการดูค่าต่างๆผ่านแอพพลิเคชั่นไลน์และเว็บไซต์เพื่อให้เกษตรกรสามารถวิเคราะห์ข้อมูลในการดูแลพืช ผลผลิต
+LA,function,Water_Or_Shade_The_Trees,รดน้ำหรือพรางแสงให้ต้นทุเรียน,ST013,pole.pdf,17,การให้ น้ำและปุ๋ยอย่างเหมาะสม
+LA,function,Sign_In_To_The_Records,เข้าสู่ระบบเพื่อดูบันทึก,ST140,sw.pdf,79,Sign in & Sign up
+LA,function,Say_What_Is_Hard_To_Read,บอกส่วนที่อ่านยาก,ST151,sw.pdf,138,เกษตรกรใช้งานเว็บไซต์ไม่เป็น
+LA,function,Plan_More_Stations,วางแผนเพิ่มสถานี,ST141,sw.pdf,88,Homepage Set Stations Overall
+LA,function,Carry_A_Message_To_The_Farmer,ส่งข้อความถึงเกษตรกร,ST046,pole.pdf,112,สอนวิธีการดูค่าต่างๆผ่านแอพพลิเคชั่นไลน์และเว็บไซต์เพื่อให้เกษตรกรสามารถวิเคราะห์ข้อมูลในการดูแลพืช ผลผลิต
+LA,function,Carry_A_Message_To_The_Farmer,ส่งข้อความถึงเกษตรกร,ST127,sw.pdf,38,Warn to Line Notify
+LA,function,Set_The_Budget,กำหนดงบประมาณ,ST063,pole.pdf,160,งบประมาณที่ใช้ในโครงงานปริญญานิพนธ์
+LA,function,Set_The_Budget,กำหนดงบประมาณ,ST155,sw.pdf,139,งบประมาณในการจัดทำ
+LA,function,Buy_The_Equipment,ซื้ออุปกรณ์,ST063,pole.pdf,160,งบประมาณที่ใช้ในโครงงานปริญญานิพนธ์
+LA,function,Buy_The_Equipment,ซื้ออุปกรณ์,ST155,sw.pdf,139,งบประมาณในการจัดทำ
+LA,function,Pay_The_Running_Costs,จ่ายค่าดำเนินงาน,,,,
+LA,function,Find_The_Faulty_Part,หาชิ้นส่วนที่เสีย,,,,
+LA,function,Raise_The_Pole,ตั้งเสา,ST030,pole.pdf,59,ตัวเสา IOT นี้ถูกออกแบบให้สามารถพับเสาได้ เนื่องจากทำให้ในการขนย้ายเสามีความสะดวกมากขึ้น
+LA,function,Raise_The_Pole,ตั้งเสา,ST036,pole.pdf,72,3.8.1 ทำการขึ้นโครงสร้างของเสา IOT และประกอบเสา IOT
+LA,function,Raise_The_Pole,ตั้งเสา,ST048,pole.pdf,125,ภาพที่ 4-ติดตั้งเสาและหันไปทางที่รับแสงแดด
+LA,MoP,Received_Power_At_400_m_dBm,กำลังที่รับได้ที่ระยะ_400_m_dBm,ST120,sw.pdf,21,RSSI average = - 84.16 dBm
+LA,MoP,Hours_Short_Of_A_Day_At_The_Measured_Load_h,ชั่วโมงที่ขาดจากหนึ่งวันที่ภาระที่วัดได้_h,ST035,pole.pdf,63,𝑃= 11.32 × 0.21 𝑃= 2.3772 𝑊
+LA,MoP,Hours_Short_Of_A_Day_At_The_Measured_Load_h,ชั่วโมงที่ขาดจากหนึ่งวันที่ภาระที่วัดได้_h,ST038,pole.pdf,105,แบตเตอรี่ขนาด 12V 12Ah สามารถจ่ายพลังงานให้กับระบบได้ทั้งหมด 31.7821Wh
+LA,MoP,Messages_Needed_Per_Month,ข้อความที่ต้องใช้ต่อเดือน,ST127,sw.pdf,38,Warn to Line Notify
+PA,function,Poll_The_Field_Bus_Sensors,สอบถามเซ็นเซอร์บนบัสภาคสนาม,ST032,pole.pdf,60,"วงจร I2C BME280 และ GY-30 , วงจรแปลงไฟ , วงจร MOSFET และ วงจรของ Sensor ที่ต่อกับ Max485 Module"
+PA,function,Poll_The_Field_Bus_Sensors,สอบถามเซ็นเซอร์บนบัสภาคสนาม,ST057,pole.pdf,149,RS485Address03 Read_Wind(); RS485Address01 readSH30(); RS485Address02 readSoil();
+PA,function,Poll_The_Field_Bus_Sensors,สอบถามเซ็นเซอร์บนบัสภาคสนาม,ST104,sw.pdf,7,microcontroller สามารถอ่านค่าจาก sensor ได้ถูกต้อง
+PA,function,Read_The_Board_Sensors,อ่านเซ็นเซอร์บนบอร์ด,ST032,pole.pdf,60,"วงจร I2C BME280 และ GY-30 , วงจรแปลงไฟ , วงจร MOSFET และ วงจรของ Sensor ที่ต่อกับ Max485 Module"
+PA,function,Read_The_Board_Sensors,อ่านเซ็นเซอร์บนบอร์ด,ST104,sw.pdf,7,microcontroller สามารถอ่านค่าจาก sensor ได้ถูกต้อง
+PA,function,Pack_The_Reading_Frame,จัดชุดเฟรมค่าวัด,ST055,pole.pdf,143,"toSend.toCharArray(dataToSend, sizeof(dataToSend));"
+PA,function,Set_The_Station_Address,ตั้งที่อยู่สถานี,ST052,pole.pdf,136,const byte senderAddress = 0x01;
+PA,function,Schedule_The_Wake_Cycle,กำหนดรอบการตื่น,ST053,pole.pdf,137,const long interval2 = 200;
+PA,function,Monitor_The_Battery,เฝ้าดูแบตเตอรี่,ST051,pole.pdf,136,Adafruit_INA219.h
+PA,function,Monitor_The_Battery,เฝ้าดูแบตเตอรี่,ST061,pole.pdf,161,"Volt meter Module INA219 100 10 1,000"
+PA,function,Transmit_The_Frame,ส่งเฟรม,ST056,pole.pdf,143,LoRa.beginPacket(); LoRa.write(senderAddress);
+PA,function,Transmit_The_Frame,ส่งเฟรม,ST105,sw.pdf,7,microcontroller สามารถส่งข้อมูลผ่าน LoRa modules ได้
+PA,function,Receive_The_Frame,รับเฟรม,ST115,sw.pdf,12,รอรับข้อมูล ทำการส่งข้อมูล ขึ้นเซิร์ฟเวอร์
+PA,function,Receive_The_Frame,รับเฟรม,ST119,sw.pdf,16,ระยะ 400 เมตร
+PA,function,Share_The_433_MHz_Channel,ใช้ช่อง_433_MHz_ร่วมกัน,ST016,pole.pdf,29,ระบบจะใช้สเปกตรัมวิทยุในช่วงคลื่นไม่ลงทะเบียนทาง อุตสาหกรรม วิทยาศาสตร์
+PA,function,Share_The_433_MHz_Channel,ใช้ช่อง_433_MHz_ร่วมกัน,ST117,sw.pdf,12,ทำการนับ 200 วินาทีเพื่อป้องกัน การส่งข้อมูลซ้อนทับกัน
+PA,function,Check_The_Frame,ตรวจเฟรม,ST116,sw.pdf,12,เมื่อข้อมูลส่งเข้ามาเเล้ว ทำการส่งค่า “1” กลับไป หาต้นทางที่ส่งข้อมูลมา
+PA,function,Read_Gateway_Climate,อ่านสภาพอากาศที่เกตเวย์,ST113,sw.pdf,11,Gateway Circuit LoRa & ESP32S BME280 & ESP32S
+PA,function,Forward_Over_HTTP,ส่งต่อทาง_HTTP,ST115,sw.pdf,12,รอรับข้อมูล ทำการส่งข้อมูล ขึ้นเซิร์ฟเวอร์
+PA,function,Forward_Over_HTTP,ส่งต่อทาง_HTTP,ST118,sw.pdf,15,เมื่อ GATEWAY ค้างเกิน 200 วินาที
+PA,function,Tell_Stations_Apart,แยกแยะสถานี,ST125,sw.pdf,38,Check Address 1 - 16
+PA,function,Parse_And_Route_The_Reading,แยกและส่งต่อค่าวัด,ST125,sw.pdf,38,Check Address 1 - 16
+PA,function,Parse_And_Route_The_Reading,แยกและส่งต่อค่าวัด,ST131,sw.pdf,41,Switch node switch data by address
+PA,function,Fill_Missing_Readings,เติมค่าวัดที่ขาดหาย,ST126,sw.pdf,38,Check data whose value is NAN
+PA,function,Fill_Missing_Readings,เติมค่าวัดที่ขาดหาย,ST135,sw.pdf,42,Interpolation method & send data to Google Sheet
+PA,function,Confirm_The_Harmful_Condition,ยืนยันสภาวะที่เป็นผลเสีย,ST129,sw.pdf,39,Data Analyze Save data to second database Warn to Line Notify
+PA,function,Push_The_Warning,พุชคำเตือน,ST127,sw.pdf,38,Warn to Line Notify
+PA,function,Push_The_Warning,พุชคำเตือน,ST133,sw.pdf,41,Prepare data for send to Line Notify
+PA,function,Count_Messages_Against_Quota,นับข้อความเทียบโควตา,,,,
+PA,function,Serve_The_Upload_Endpoint,ให้บริการปลายทางรับข้อมูล,ST130,sw.pdf,40,http in node
+PA,function,Store_The_Time_Series,จัดเก็บอนุกรมเวลา,ST132,sw.pdf,41,influxdb node Send data to InfluxDB
+PA,function,Render_The_Status_Page,สร้างหน้าสถานะ,ST111,sw.pdf,8,สามารถแสดงค่าของเซนเซอร์ทั้ง 14 ตัว สภาพอากาศ และพิกัดที่ติดตั้งเสาทั้งหมด
+PA,function,Render_The_Status_Page,สร้างหน้าสถานะ,ST138,sw.pdf,76,ภาพรวมของเสาที่ติดตั้งในจังหวัดนนทบุรี
+PA,function,Render_The_Status_Page,สร้างหน้าสถานะ,ST139,sw.pdf,77,Dashboard Example page
+PA,function,Draw_The_Status_Symbols,วาดสัญลักษณ์สถานะ,ST102,sw.pdf,6,สร้างหน้าอินเทอร์เฟซที่เข้าใจเกี่ยวกับการแสดงค่าเซนเซอร์ต่างๆ
+PA,function,Keep_The_Server_Running,ให้เซิร์ฟเวอร์ทำงานต่อเนื่อง,ST123,sw.pdf,35,"Over a period of 105 days, The server was down for 5 days"
+PA,function,Keep_The_Server_Running,ให้เซิร์ฟเวอร์ทำงานต่อเนื่อง,ST149,sw.pdf,138,การล่มของเซิร์ฟเวอร์ในบางครั้ง
+PA,function,Keep_The_Server_Running,ให้เซิร์ฟเวอร์ทำงานต่อเนื่อง,ST157,sw.pdf,34,Server Failed
+PA,function,Meter_The_Running_Costs,วัดค่าดำเนินงาน,,,,
+PA,function,Count_The_Stacks_In_Use,นับชุดซอฟต์แวร์ที่ใช้งาน,,,,
+PA,function,Commission_The_Station,เริ่มใช้งานสถานี,ST142,sw.pdf,92,Set position of Station
+PA,function,Sign_In_With_Firebase,เข้าสู่ระบบด้วย_Firebase,ST140,sw.pdf,79,Sign in & Sign up
+PA,function,Sign_In_With_Firebase,เข้าสู่ระบบด้วย_Firebase,ST143,sw.pdf,94,User UID User Data
+PA,function,Append_A_Row,เพิ่มแถว,ST134,sw.pdf,42,G-sheet node Send data to Google Sheet
+PA,function,Append_A_Row,เพิ่มแถว,ST137,sw.pdf,67,Web App URL หรือ API (Web Service)
+PA,function,Send_The_Scheduled_Report,ส่งรายงานตามรอบ,,,,
+PA,function,Reflash_Over_USB,แฟลชซ้ำผ่าน_USB,,,,
+PA,function,Modulate_At_433_MHz,มอดูเลตที่_433_MHz,ST059,pole.pdf,156,if (!LoRa.begin(433E6))
+PA,function,Radiate_The_Burst,แผ่คลื่นช่วงส่ง,ST154,sw.pdf,139,"Anternna 5 dbi 135 ฿ 31 4,185 ฿"
+PA,function,Measure_Air_Climate,วัดสภาพอากาศ,ST021,pole.pdf,38,BME280 เป็นบอร์ดเบรกเอาต์ที่มีเซ็นเซอร์วัดอุณหภูมิ ความชื้น และความดัน
+PA,function,Measure_Air_Climate,วัดสภาพอากาศ,ST044,pole.pdf,109,4.3.5 การทดลองวัดค่าจากเซ็นเซอร์วัดความดันอากาศ (BME280)
+PA,function,Measure_Light,วัดแสง,ST020,pole.pdf,37,ใช้ในการวัดความสว่างในช่วงคลื่นของแสงที่ตามองเห็น
+PA,function,Measure_Light,วัดแสง,ST043,pole.pdf,108,4.3.4 การทดลองวัดค่าจากเซ็นเซอร์วัดความเข้มแสง (GY-30)
+PA,function,Measure_Battery_Current,วัดกระแสแบตเตอรี่,ST051,pole.pdf,136,Adafruit_INA219.h
+PA,function,Measure_Battery_Current,วัดกระแสแบตเตอรี่,ST061,pole.pdf,161,"Volt meter Module INA219 100 10 1,000"
+PA,function,Convert_RS485_To_TTL,แปลง_RS485_เป็น_TTL,ST023,pole.pdf,40,RS-485 เป็นมาตรฐานทางอิเล็กทรอนิกส์ที่กำหนดลักษณะทางไฟฟ้าสำหรับตัวส่งและตัวรับสัญญาณ
+PA,function,Convert_RS485_To_TTL,แปลง_RS485_เป็น_TTL,ST032,pole.pdf,60,"วงจร I2C BME280 และ GY-30 , วงจรแปลงไฟ , วงจร MOSFET และ วงจรของ Sensor ที่ต่อกับ Max485 Module"
+PA,function,Convert_RS485_To_TTL,แปลง_RS485_เป็น_TTL,ST058,pole.pdf,156,"Serial1.begin(4800, SERIAL_8N1, 16, 17);"
+PA,function,Answer_Soil_Modbus_Poll,ตอบคำขอ_Modbus_ของเซ็นเซอร์ดิน,ST019,pole.pdf,35,เซ็นเซอร์วัดดิน 7-in-1 ที่รองรับการสื่อสารผ่านโปรโตคอล RS485
+PA,function,Answer_Soil_Modbus_Poll,ตอบคำขอ_Modbus_ของเซ็นเซอร์ดิน,ST040,pole.pdf,105,4.3.1 การทดลองวัดค่าจากเซ็นเซอร์วัดความชื้น อุณหภูมิ EC PH NPK
+PA,function,Answer_Wind_Modbus_Poll,ตอบคำขอ_Modbus_ของเซ็นเซอร์ลม,ST018,pole.pdf,35,สัญญาณเอาต์พุต RS485 (โปรโตคอล Modbus-RTU)
+PA,function,Answer_Wind_Modbus_Poll,ตอบคำขอ_Modbus_ของเซ็นเซอร์ลม,ST042,pole.pdf,107,4.3.3 การทดลองวัดค่าจากเซ็นเซอร์วัดความเร็วลม(Wind Sensor)
+PA,function,Answer_Air_Modbus_Poll,ตอบคำขอ_Modbus_ของเซ็นเซอร์อากาศ,ST041,pole.pdf,106,4.3.2 การทดลองวัดค่าจากเซ็นเซอร์วัดอุณหภูมิและความชื้น (RS485 RH/TEMP Sensor)
+PA,function,Answer_Air_Modbus_Poll,ตอบคำขอ_Modbus_ของเซ็นเซอร์อากาศ,ST057,pole.pdf,149,RS485Address03 Read_Wind(); RS485Address01 readSH30(); RS485Address02 readSoil();
+PA,function,Close_On_High_Water,ปิดวงจรเมื่อน้ำสูง,ST022,pole.pdf,39,สวิทช์ลูกลอยตรวจจับระดับของเหลว
+PA,function,Close_On_High_Water,ปิดวงจรเมื่อน้ำสูง,ST045,pole.pdf,110,4.3.6 การทดลองวัดค่าจากสวิทซ์ลูกลอย (Water Level Sensor Float Switch)
+PA,function,Close_On_High_Water,ปิดวงจรเมื่อน้ำสูง,ST054,pole.pdf,142,Foat =digitalRead(35) ;
+PA,function,Switch_The_12_V_Load,สับโหลด_12_V,ST033,pole.pdf,62,ภาพที่ 3-6 วงจรขับโหลดของ MOSFET
+PA,function,Convert_Sunlight,แปลงแสงแดด,ST015,pole.pdf,23,อุปกรณ์สำหรับเปลี่ยนพลังงานแสงอาทิตย์ให้เป็นพลังงานไฟฟ้า
+PA,function,Convert_Sunlight,แปลงแสงแดด,ST029,pole.pdf,59,Solar cell จำนวน 2 แผ่น
+PA,function,Track_Maximum_Power,ติดตามจุดกำลังสูงสุด,ST026,pole.pdf,43,มีคุณสมบัติคอยควบคุมการ ชาร์จไฟฟ้าจากแผงโซล่าเซลล์เข้าสู่แบตเตอรี่
+PA,function,Track_Maximum_Power,ติดตามจุดกำลังสูงสุด,ST027,pole.pdf,45,โซล่าชาร์จเจอร์แบบ MPPT Maximum Power Point Tracking
+PA,function,Boost_To_12_V,เพิ่มแรงดันเป็น_12_V,ST025,pole.pdf,42,โมดูล MT3608 Step-Up DC-DC Converter เป็นวงจรเพิ่มแรงดันไฟฟ้าแบบสวิตชิ่ง
+PA,function,Drop_To_5_V,ลดแรงดันเป็น_5_V,ST024,pole.pdf,41,อุปกรณ์ที่ใช้ในการลดแรงดันไฟฟ้าจากระดับ 12V ลงเหลือระดับ 5V
+PA,function,Store_The_Charge,เก็บประจุ,ST017,pole.pdf,32,แบตเตอรี่ 18650 สามารถจ่ายกระแสได้สูง
+PA,function,Store_The_Charge,เก็บประจุ,ST037,pole.pdf,101,ตารางที่ 4-1 ทดลองการใช้งานแบตเตอรี่
+PA,function,Hold_The_Sensors_At_Height,ยึดเซ็นเซอร์ไว้ที่ระดับสูง,ST028,pole.pdf,59,โดยเสา IOT มีคามสูงอยู่ที่ 200 เซนติเมตร
+PA,function,Demodulate_The_Burst,ถอดมอดูเลตช่วงส่ง,ST121,sw.pdf,22,SNR average = 6.466 dB
+PA,function,Catch_The_Burst,รับคลื่นช่วงส่ง,ST113,sw.pdf,11,Gateway Circuit LoRa & ESP32S BME280 & ESP32S
+PA,function,Catch_The_Burst,รับคลื่นช่วงส่ง,ST154,sw.pdf,139,"Anternna 5 dbi 135 ฿ 31 4,185 ฿"
+PA,function,Measure_Gateway_Climate,วัดสภาพอากาศที่เกตเวย์,ST113,sw.pdf,11,Gateway Circuit LoRa & ESP32S BME280 & ESP32S
+PA,function,Route_To_The_Internet,ส่งเส้นทางสู่อินเทอร์เน็ต,ST060,pole.pdf,160,"Pocket WIFI 260 11 2,860"
+PA,function,Route_To_The_Internet,ส่งเส้นทางสู่อินเทอร์เน็ต,ST114,sw.pdf,12,เช็คการเชื่อม ต่อไวไฟ เช็คการเชื่อม ต่อเซิร์ฟเวอร์ เช็คการเชื่อม ต่อลอร่า
+PA,function,Supply_The_Gateway_5_V,จ่ายไฟ_5_V_ให้เกตเวย์,ST062,pole.pdf,161,Adapter 5V 1A 80 5 400
+PA,function,Supply_The_Gateway_5_V,จ่ายไฟ_5_V_ให้เกตเวย์,ST150,sw.pdf,138,เกษตรกรถอดปลั๊กเกตเวย์
+PA,function,Give_Sunlight,ให้แสงแดด,ST031,pole.pdf,60,เสา IOT ต้องไปติดตั้งในสวนทุเรียนบริเวณกลางแจ้งที่แสงแดดส่องถึงและอาจจะมีฝนตก
+PA,function,Give_Sunlight,ให้แสงแดด,ST048,pole.pdf,125,ภาพที่ 4-ติดตั้งเสาและหันไปทางที่รับแสงแดด
+PA,function,Change_Soil_And_Weather,ดินและอากาศเปลี่ยนแปลง,ST010,pole.pdf,17,1.5.3 สภาพแวดล้อมที่แปรปรวน ส่งผลโดยตรงต่อผลผลิตของสวนทุเรียน
+PA,function,Change_Soil_And_Weather,ดินและอากาศเปลี่ยนแปลง,ST031,pole.pdf,60,เสา IOT ต้องไปติดตั้งในสวนทุเรียนบริเวณกลางแจ้งที่แสงแดดส่องถึงและอาจจะมีฝนตก
+PA,function,Reach_A_Harmful_Condition,เกิดสภาวะที่เป็นผลเสีย,ST010,pole.pdf,17,1.5.3 สภาพแวดล้อมที่แปรปรวน ส่งผลโดยตรงต่อผลผลิตของสวนทุเรียน
+PA,function,Reach_A_Harmful_Condition,เกิดสภาวะที่เป็นผลเสีย,ST011,pole.pdf,17,การไม่มีระบบตรวจวัดและแจ้ง เตือนล่วงหน้า อาจทำให้เกษตรกรไม่สามารถรับมือได้ทันท่วงที
+PA,function,Read_The_Status,อ่านสถานะ,ST046,pole.pdf,112,สอนวิธีการดูค่าต่างๆผ่านแอพพลิเคชั่นไลน์และเว็บไซต์เพื่อให้เกษตรกรสามารถวิเคราะห์ข้อมูลในการดูแลพืช ผลผลิต
+PA,function,Read_The_Status,อ่านสถานะ,ST152,sw.pdf,138,สอนเกษตรกรใช้งานเว็บไซต์
+PA,function,Decide_Water_And_Fertiliser,ตัดสินใจเรื่องน้ำและปุ๋ย,ST004,pole.pdf,16,เพื่อทำการวิเคราะห์ข้อมูลการให้น้ำ ให้ปุ๋ย สภาพแวดล้อมของสวน
+PA,function,Decide_Water_And_Fertiliser,ตัดสินใจเรื่องน้ำและปุ๋ย,ST046,pole.pdf,112,สอนวิธีการดูค่าต่างๆผ่านแอพพลิเคชั่นไลน์และเว็บไซต์เพื่อให้เกษตรกรสามารถวิเคราะห์ข้อมูลในการดูแลพืช ผลผลิต
+PA,function,Water_Or_Shade_The_Trees,รดน้ำหรือพรางแสงให้ต้นทุเรียน,ST013,pole.pdf,17,การให้ น้ำและปุ๋ยอย่างเหมาะสม
+PA,function,Sign_In_To_The_Records,เข้าสู่ระบบเพื่อดูบันทึก,ST140,sw.pdf,79,Sign in & Sign up
+PA,function,Say_What_Is_Hard_To_Read,บอกส่วนที่อ่านยาก,ST151,sw.pdf,138,เกษตรกรใช้งานเว็บไซต์ไม่เป็น
+PA,function,Plan_More_Stations,วางแผนเพิ่มสถานี,ST141,sw.pdf,88,Homepage Set Stations Overall
+PA,function,Carry_A_Message_To_The_Farmer,ส่งข้อความถึงเกษตรกร,ST046,pole.pdf,112,สอนวิธีการดูค่าต่างๆผ่านแอพพลิเคชั่นไลน์และเว็บไซต์เพื่อให้เกษตรกรสามารถวิเคราะห์ข้อมูลในการดูแลพืช ผลผลิต
+PA,function,Carry_A_Message_To_The_Farmer,ส่งข้อความถึงเกษตรกร,ST127,sw.pdf,38,Warn to Line Notify
+PA,function,Set_The_Budget,กำหนดงบประมาณ,ST063,pole.pdf,160,งบประมาณที่ใช้ในโครงงานปริญญานิพนธ์
+PA,function,Set_The_Budget,กำหนดงบประมาณ,ST155,sw.pdf,139,งบประมาณในการจัดทำ
+PA,function,Buy_The_Equipment,ซื้ออุปกรณ์,ST063,pole.pdf,160,งบประมาณที่ใช้ในโครงงานปริญญานิพนธ์
+PA,function,Buy_The_Equipment,ซื้ออุปกรณ์,ST155,sw.pdf,139,งบประมาณในการจัดทำ
+PA,function,Pay_The_Running_Costs,จ่ายค่าดำเนินงาน,,,,
+PA,function,Find_The_Faulty_Part,หาชิ้นส่วนที่เสีย,,,,
+PA,function,Raise_The_Pole,ตั้งเสา,ST030,pole.pdf,59,ตัวเสา IOT นี้ถูกออกแบบให้สามารถพับเสาได้ เนื่องจากทำให้ในการขนย้ายเสามีความสะดวกมากขึ้น
+PA,function,Raise_The_Pole,ตั้งเสา,ST036,pole.pdf,72,3.8.1 ทำการขึ้นโครงสร้างของเสา IOT และประกอบเสา IOT
+PA,function,Raise_The_Pole,ตั้งเสา,ST048,pole.pdf,125,ภาพที่ 4-ติดตั้งเสาและหันไปทางที่รับแสงแดด
+PA,MoP,Gateway_Frames_Received_At_400_m_Pct,สัดส่วนเฟรมที่เกตเวย์รับได้ที่_400_m_pct,ST119,sw.pdf,16,ระยะ 400 เมตร
+PA,MoP,Measured_Mean_RSSI_At_400_m_dBm,ค่าเฉลี่ย_RSSI_ที่วัดได้ที่ระยะ_400_m_dBm,ST120,sw.pdf,21,RSSI average = - 84.16 dBm
+PA,MoP,Battery_Test_Hours_Short_Of_A_Day_h,ชั่วโมงที่ขาดจากหนึ่งวันในการทดสอบแบตเตอรี่_h,ST037,pole.pdf,101,ตารางที่ 4-1 ทดลองการใช้งานแบตเตอรี่
+PA,MoP,Battery_Test_Hours_Short_Of_A_Day_h,ชั่วโมงที่ขาดจากหนึ่งวันในการทดสอบแบตเตอรี่_h,ST039,pole.pdf,105,สามารถจ่ายพลังงานได้ทั้งหมด 16 ชั่วโมง นับตั้งแต่แบตเตอรี่ชาร์จเต็ม
+PA,MoP,LINE_Messages_Per_Month,จำนวนข้อความ_LINE_ต่อเดือน,ST133,sw.pdf,41,Prepare data for send to Line Notify
+PA,MoP,CasaOS_Server_Availability_Pct,สภาพพร้อมใช้ของเซิร์ฟเวอร์_CasaOS_pct,ST123,sw.pdf,35,"Over a period of 105 days, The server was down for 5 days"
+PA,MoP,CasaOS_Server_Availability_Pct,สภาพพร้อมใช้ของเซิร์ฟเวอร์_CasaOS_pct,ST124,sw.pdf,35,Success rate = 95.24%
+PA,MoP,CasaOS_Server_Availability_Pct,สภาพพร้อมใช้ของเซิร์ฟเวอร์_CasaOS_pct,ST157,sw.pdf,34,Server Failed

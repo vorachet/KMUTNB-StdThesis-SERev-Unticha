@@ -1,0 +1,1155 @@
+source,page,test,run,time,device,quantity,value,unit
+pole.pdf,101,battery_discharge,1,10:23,battery 12V 12Ah,elapsed_time,0,min
+pole.pdf,101,battery_discharge,1,10:23,battery 12V 12Ah,voltage,11.91,V
+pole.pdf,101,battery_discharge,1,10:23,battery 12V 12Ah,current,0.16,A
+pole.pdf,101,battery_discharge,1,10:23,battery 12V 12Ah,power,1.9056,W
+pole.pdf,101,battery_discharge,2,10:33,battery 12V 12Ah,elapsed_time,10,min
+pole.pdf,101,battery_discharge,2,10:33,battery 12V 12Ah,voltage,11.91,V
+pole.pdf,101,battery_discharge,2,10:33,battery 12V 12Ah,current,0.15,A
+pole.pdf,101,battery_discharge,2,10:33,battery 12V 12Ah,power,1.7865,W
+pole.pdf,101,battery_discharge,3,10:43,battery 12V 12Ah,elapsed_time,20,min
+pole.pdf,101,battery_discharge,3,10:43,battery 12V 12Ah,voltage,11.9,V
+pole.pdf,101,battery_discharge,3,10:43,battery 12V 12Ah,current,0.15,A
+pole.pdf,101,battery_discharge,3,10:43,battery 12V 12Ah,power,1.785,W
+pole.pdf,101,battery_discharge,4,10:53,battery 12V 12Ah,elapsed_time,30,min
+pole.pdf,101,battery_discharge,4,10:53,battery 12V 12Ah,voltage,11.9,V
+pole.pdf,101,battery_discharge,4,10:53,battery 12V 12Ah,current,0.15,A
+pole.pdf,101,battery_discharge,4,10:53,battery 12V 12Ah,power,1.785,W
+pole.pdf,101,battery_discharge,5,11:03,battery 12V 12Ah,elapsed_time,40,min
+pole.pdf,101,battery_discharge,5,11:03,battery 12V 12Ah,voltage,11.88,V
+pole.pdf,101,battery_discharge,5,11:03,battery 12V 12Ah,current,0.19,A
+pole.pdf,101,battery_discharge,5,11:03,battery 12V 12Ah,power,2.2572,W
+pole.pdf,101,battery_discharge,6,11:14,battery 12V 12Ah,elapsed_time,50,min
+pole.pdf,101,battery_discharge,6,11:14,battery 12V 12Ah,voltage,11.87,V
+pole.pdf,101,battery_discharge,6,11:14,battery 12V 12Ah,current,0.19,A
+pole.pdf,101,battery_discharge,6,11:14,battery 12V 12Ah,power,2.2553,W
+pole.pdf,101,battery_discharge,7,11:24,battery 12V 12Ah,elapsed_time,60,min
+pole.pdf,101,battery_discharge,7,11:24,battery 12V 12Ah,voltage,11.86,V
+pole.pdf,101,battery_discharge,7,11:24,battery 12V 12Ah,current,0.22,A
+pole.pdf,101,battery_discharge,7,11:24,battery 12V 12Ah,power,2.6092,W
+pole.pdf,101,battery_discharge,8,11:34,battery 12V 12Ah,elapsed_time,70,min
+pole.pdf,101,battery_discharge,8,11:34,battery 12V 12Ah,voltage,11.88,V
+pole.pdf,101,battery_discharge,8,11:34,battery 12V 12Ah,current,0.15,A
+pole.pdf,101,battery_discharge,8,11:34,battery 12V 12Ah,power,1.782,W
+pole.pdf,102,battery_discharge,9,11:44,battery 12V 12Ah,elapsed_time,80,min
+pole.pdf,102,battery_discharge,9,11:44,battery 12V 12Ah,voltage,11.86,V
+pole.pdf,102,battery_discharge,9,11:44,battery 12V 12Ah,current,0.19,A
+pole.pdf,102,battery_discharge,9,11:44,battery 12V 12Ah,power,2.2534,W
+pole.pdf,102,battery_discharge,10,11:46,battery 12V 12Ah,elapsed_time,90,min
+pole.pdf,102,battery_discharge,10,11:46,battery 12V 12Ah,voltage,11.86,V
+pole.pdf,102,battery_discharge,10,11:46,battery 12V 12Ah,current,0.15,A
+pole.pdf,102,battery_discharge,10,11:46,battery 12V 12Ah,power,1.779,W
+pole.pdf,102,battery_discharge,11,11:56,battery 12V 12Ah,elapsed_time,100,min
+pole.pdf,102,battery_discharge,11,11:56,battery 12V 12Ah,voltage,11.87,V
+pole.pdf,102,battery_discharge,11,11:56,battery 12V 12Ah,current,0.14,A
+pole.pdf,102,battery_discharge,11,11:56,battery 12V 12Ah,power,1.6618,W
+pole.pdf,102,battery_discharge,12,12:06,battery 12V 12Ah,elapsed_time,110,min
+pole.pdf,102,battery_discharge,12,12:06,battery 12V 12Ah,voltage,11.86,V
+pole.pdf,102,battery_discharge,12,12:06,battery 12V 12Ah,current,0.15,A
+pole.pdf,102,battery_discharge,12,12:06,battery 12V 12Ah,power,1.779,W
+pole.pdf,102,battery_discharge,13,12:14,battery 12V 12Ah,elapsed_time,120,min
+pole.pdf,102,battery_discharge,13,12:14,battery 12V 12Ah,voltage,11.83,V
+pole.pdf,102,battery_discharge,13,12:14,battery 12V 12Ah,current,0.17,A
+pole.pdf,102,battery_discharge,13,12:14,battery 12V 12Ah,power,2.0111,W
+pole.pdf,102,battery_discharge,14,12:24,battery 12V 12Ah,elapsed_time,130,min
+pole.pdf,102,battery_discharge,14,12:24,battery 12V 12Ah,voltage,11.85,V
+pole.pdf,102,battery_discharge,14,12:24,battery 12V 12Ah,current,0.15,A
+pole.pdf,102,battery_discharge,14,12:24,battery 12V 12Ah,power,1.7775,W
+pole.pdf,102,battery_discharge,15,12:40,battery 12V 12Ah,elapsed_time,140,min
+pole.pdf,102,battery_discharge,15,12:40,battery 12V 12Ah,voltage,11.85,V
+pole.pdf,102,battery_discharge,15,12:40,battery 12V 12Ah,current,0.14,A
+pole.pdf,102,battery_discharge,15,12:40,battery 12V 12Ah,power,1.659,W
+pole.pdf,102,battery_discharge,16,12:50,battery 12V 12Ah,elapsed_time,150,min
+pole.pdf,102,battery_discharge,16,12:50,battery 12V 12Ah,voltage,11.85,V
+pole.pdf,102,battery_discharge,16,12:50,battery 12V 12Ah,current,0.15,A
+pole.pdf,102,battery_discharge,16,12:50,battery 12V 12Ah,power,1.7775,W
+pole.pdf,102,battery_discharge,17,13:10,battery 12V 12Ah,elapsed_time,160,min
+pole.pdf,102,battery_discharge,17,13:10,battery 12V 12Ah,voltage,11.84,V
+pole.pdf,102,battery_discharge,17,13:10,battery 12V 12Ah,current,0.15,A
+pole.pdf,102,battery_discharge,17,13:10,battery 12V 12Ah,power,1.776,W
+pole.pdf,102,battery_discharge,18,13:20,battery 12V 12Ah,elapsed_time,170,min
+pole.pdf,102,battery_discharge,18,13:20,battery 12V 12Ah,voltage,11.84,V
+pole.pdf,102,battery_discharge,18,13:20,battery 12V 12Ah,current,0.15,A
+pole.pdf,102,battery_discharge,18,13:20,battery 12V 12Ah,power,1.776,W
+pole.pdf,102,battery_discharge,19,13:30,battery 12V 12Ah,elapsed_time,180,min
+pole.pdf,102,battery_discharge,19,13:30,battery 12V 12Ah,voltage,11.83,V
+pole.pdf,102,battery_discharge,19,13:30,battery 12V 12Ah,current,0.15,A
+pole.pdf,102,battery_discharge,19,13:30,battery 12V 12Ah,power,1.7745,W
+pole.pdf,102,battery_discharge,20,13:40,battery 12V 12Ah,elapsed_time,190,min
+pole.pdf,102,battery_discharge,20,13:40,battery 12V 12Ah,voltage,11.82,V
+pole.pdf,102,battery_discharge,20,13:40,battery 12V 12Ah,current,0.15,A
+pole.pdf,102,battery_discharge,20,13:40,battery 12V 12Ah,power,1.773,W
+pole.pdf,102,battery_discharge,21,13:50,battery 12V 12Ah,elapsed_time,200,min
+pole.pdf,102,battery_discharge,21,13:50,battery 12V 12Ah,voltage,11.82,V
+pole.pdf,102,battery_discharge,21,13:50,battery 12V 12Ah,current,0.15,A
+pole.pdf,102,battery_discharge,21,13:50,battery 12V 12Ah,power,1.773,W
+pole.pdf,102,battery_discharge,22,14:00,battery 12V 12Ah,elapsed_time,210,min
+pole.pdf,102,battery_discharge,22,14:00,battery 12V 12Ah,voltage,11.8,V
+pole.pdf,102,battery_discharge,22,14:00,battery 12V 12Ah,current,0.19,A
+pole.pdf,102,battery_discharge,22,14:00,battery 12V 12Ah,power,2.242,W
+pole.pdf,102,battery_discharge,23,14:10,battery 12V 12Ah,elapsed_time,220,min
+pole.pdf,102,battery_discharge,23,14:10,battery 12V 12Ah,voltage,11.81,V
+pole.pdf,102,battery_discharge,23,14:10,battery 12V 12Ah,current,0.16,A
+pole.pdf,102,battery_discharge,23,14:10,battery 12V 12Ah,power,1.8896,W
+pole.pdf,102,battery_discharge,24,14:20,battery 12V 12Ah,elapsed_time,230,min
+pole.pdf,102,battery_discharge,24,14:20,battery 12V 12Ah,voltage,11.79,V
+pole.pdf,102,battery_discharge,24,14:20,battery 12V 12Ah,current,0.19,A
+pole.pdf,102,battery_discharge,24,14:20,battery 12V 12Ah,power,2.2401,W
+pole.pdf,102,battery_discharge,25,14:30,battery 12V 12Ah,elapsed_time,240,min
+pole.pdf,102,battery_discharge,25,14:30,battery 12V 12Ah,voltage,11.8,V
+pole.pdf,102,battery_discharge,25,14:30,battery 12V 12Ah,current,0.15,A
+pole.pdf,102,battery_discharge,25,14:30,battery 12V 12Ah,power,1.77,W
+pole.pdf,102,battery_discharge,26,14:40,battery 12V 12Ah,elapsed_time,250,min
+pole.pdf,102,battery_discharge,26,14:40,battery 12V 12Ah,voltage,11.79,V
+pole.pdf,102,battery_discharge,26,14:40,battery 12V 12Ah,current,0.15,A
+pole.pdf,102,battery_discharge,26,14:40,battery 12V 12Ah,power,1.7685,W
+pole.pdf,102,battery_discharge,27,14:50,battery 12V 12Ah,elapsed_time,260,min
+pole.pdf,102,battery_discharge,27,14:50,battery 12V 12Ah,voltage,11.78,V
+pole.pdf,102,battery_discharge,27,14:50,battery 12V 12Ah,current,0.15,A
+pole.pdf,102,battery_discharge,27,14:50,battery 12V 12Ah,power,1.767,W
+pole.pdf,102,battery_discharge,28,15:00,battery 12V 12Ah,elapsed_time,270,min
+pole.pdf,102,battery_discharge,28,15:00,battery 12V 12Ah,voltage,11.77,V
+pole.pdf,102,battery_discharge,28,15:00,battery 12V 12Ah,current,0.16,A
+pole.pdf,102,battery_discharge,28,15:00,battery 12V 12Ah,power,1.8832,W
+pole.pdf,102,battery_discharge,29,15:11,battery 12V 12Ah,elapsed_time,280,min
+pole.pdf,102,battery_discharge,29,15:11,battery 12V 12Ah,voltage,11.76,V
+pole.pdf,102,battery_discharge,29,15:11,battery 12V 12Ah,current,0.15,A
+pole.pdf,102,battery_discharge,29,15:11,battery 12V 12Ah,power,1.764,W
+pole.pdf,102,battery_discharge,30,15:21,battery 12V 12Ah,elapsed_time,290,min
+pole.pdf,102,battery_discharge,30,15:21,battery 12V 12Ah,voltage,11.74,V
+pole.pdf,102,battery_discharge,30,15:21,battery 12V 12Ah,current,0.19,A
+pole.pdf,102,battery_discharge,30,15:21,battery 12V 12Ah,power,2.2306,W
+pole.pdf,102,battery_discharge,31,15:31,battery 12V 12Ah,elapsed_time,300,min
+pole.pdf,102,battery_discharge,31,15:31,battery 12V 12Ah,voltage,11.75,V
+pole.pdf,102,battery_discharge,31,15:31,battery 12V 12Ah,current,0.16,A
+pole.pdf,102,battery_discharge,31,15:31,battery 12V 12Ah,power,1.88,W
+pole.pdf,102,battery_discharge,32,15:41,battery 12V 12Ah,elapsed_time,310,min
+pole.pdf,102,battery_discharge,32,15:41,battery 12V 12Ah,voltage,11.75,V
+pole.pdf,102,battery_discharge,32,15:41,battery 12V 12Ah,current,0.14,A
+pole.pdf,102,battery_discharge,32,15:41,battery 12V 12Ah,power,1.645,W
+pole.pdf,102,battery_discharge,33,15:51,battery 12V 12Ah,elapsed_time,320,min
+pole.pdf,102,battery_discharge,33,15:51,battery 12V 12Ah,voltage,11.74,V
+pole.pdf,102,battery_discharge,33,15:51,battery 12V 12Ah,current,0.15,A
+pole.pdf,102,battery_discharge,33,15:51,battery 12V 12Ah,power,1.761,W
+pole.pdf,102,battery_discharge,34,16:01,battery 12V 12Ah,elapsed_time,330,min
+pole.pdf,102,battery_discharge,34,16:01,battery 12V 12Ah,voltage,11.73,V
+pole.pdf,102,battery_discharge,34,16:01,battery 12V 12Ah,current,0.15,A
+pole.pdf,102,battery_discharge,34,16:01,battery 12V 12Ah,power,1.7595,W
+pole.pdf,102,battery_discharge,35,16:11,battery 12V 12Ah,elapsed_time,340,min
+pole.pdf,102,battery_discharge,35,16:11,battery 12V 12Ah,voltage,11.72,V
+pole.pdf,102,battery_discharge,35,16:11,battery 12V 12Ah,current,0.15,A
+pole.pdf,102,battery_discharge,35,16:11,battery 12V 12Ah,power,1.758,W
+pole.pdf,102,battery_discharge,36,16:21,battery 12V 12Ah,elapsed_time,350,min
+pole.pdf,102,battery_discharge,36,16:21,battery 12V 12Ah,voltage,11.72,V
+pole.pdf,102,battery_discharge,36,16:21,battery 12V 12Ah,current,0.15,A
+pole.pdf,102,battery_discharge,36,16:21,battery 12V 12Ah,power,1.758,W
+pole.pdf,102,battery_discharge,37,16:31,battery 12V 12Ah,elapsed_time,360,min
+pole.pdf,102,battery_discharge,37,16:31,battery 12V 12Ah,voltage,11.69,V
+pole.pdf,102,battery_discharge,37,16:31,battery 12V 12Ah,current,0.19,A
+pole.pdf,102,battery_discharge,37,16:31,battery 12V 12Ah,power,2.2211,W
+pole.pdf,102,battery_discharge,38,16:51,battery 12V 12Ah,elapsed_time,370,min
+pole.pdf,102,battery_discharge,38,16:51,battery 12V 12Ah,voltage,11.66,V
+pole.pdf,102,battery_discharge,38,16:51,battery 12V 12Ah,current,0.19,A
+pole.pdf,102,battery_discharge,38,16:51,battery 12V 12Ah,power,2.2154,W
+pole.pdf,103,battery_discharge,39,17:01,battery 12V 12Ah,elapsed_time,380,min
+pole.pdf,103,battery_discharge,39,17:01,battery 12V 12Ah,voltage,11.65,V
+pole.pdf,103,battery_discharge,39,17:01,battery 12V 12Ah,current,0.19,A
+pole.pdf,103,battery_discharge,39,17:01,battery 12V 12Ah,power,2.2135,W
+pole.pdf,103,battery_discharge,40,17:11,battery 12V 12Ah,elapsed_time,390,min
+pole.pdf,103,battery_discharge,40,17:11,battery 12V 12Ah,voltage,11.62,V
+pole.pdf,103,battery_discharge,40,17:11,battery 12V 12Ah,current,0.23,A
+pole.pdf,103,battery_discharge,40,17:11,battery 12V 12Ah,power,2.6726,W
+pole.pdf,103,battery_discharge,41,17:21,battery 12V 12Ah,elapsed_time,400,min
+pole.pdf,103,battery_discharge,41,17:21,battery 12V 12Ah,voltage,11.66,V
+pole.pdf,103,battery_discharge,41,17:21,battery 12V 12Ah,current,0.16,A
+pole.pdf,103,battery_discharge,41,17:21,battery 12V 12Ah,power,1.8656,W
+pole.pdf,103,battery_discharge,42,17:31,battery 12V 12Ah,elapsed_time,410,min
+pole.pdf,103,battery_discharge,42,17:31,battery 12V 12Ah,voltage,11.62,V
+pole.pdf,103,battery_discharge,42,17:31,battery 12V 12Ah,current,0.2,A
+pole.pdf,103,battery_discharge,42,17:31,battery 12V 12Ah,power,2.324,W
+pole.pdf,103,battery_discharge,43,17:41,battery 12V 12Ah,elapsed_time,420,min
+pole.pdf,103,battery_discharge,43,17:41,battery 12V 12Ah,voltage,11.64,V
+pole.pdf,103,battery_discharge,43,17:41,battery 12V 12Ah,current,0.15,A
+pole.pdf,103,battery_discharge,43,17:41,battery 12V 12Ah,power,1.746,W
+pole.pdf,103,battery_discharge,44,17:51,battery 12V 12Ah,elapsed_time,430,min
+pole.pdf,103,battery_discharge,44,17:51,battery 12V 12Ah,voltage,11.6,V
+pole.pdf,103,battery_discharge,44,17:51,battery 12V 12Ah,current,0.19,A
+pole.pdf,103,battery_discharge,44,17:51,battery 12V 12Ah,power,2.204,W
+pole.pdf,103,battery_discharge,45,18:01,battery 12V 12Ah,elapsed_time,440,min
+pole.pdf,103,battery_discharge,45,18:01,battery 12V 12Ah,voltage,11.6,V
+pole.pdf,103,battery_discharge,45,18:01,battery 12V 12Ah,current,0.18,A
+pole.pdf,103,battery_discharge,45,18:01,battery 12V 12Ah,power,2.088,W
+pole.pdf,103,battery_discharge,46,18:11,battery 12V 12Ah,elapsed_time,450,min
+pole.pdf,103,battery_discharge,46,18:11,battery 12V 12Ah,voltage,11.56,V
+pole.pdf,103,battery_discharge,46,18:11,battery 12V 12Ah,current,0.23,A
+pole.pdf,103,battery_discharge,46,18:11,battery 12V 12Ah,power,2.6588,W
+pole.pdf,103,battery_discharge,47,18:21,battery 12V 12Ah,elapsed_time,460,min
+pole.pdf,103,battery_discharge,47,18:21,battery 12V 12Ah,voltage,11.57,V
+pole.pdf,103,battery_discharge,47,18:21,battery 12V 12Ah,current,0.19,A
+pole.pdf,103,battery_discharge,47,18:21,battery 12V 12Ah,power,2.1983,W
+pole.pdf,103,battery_discharge,48,18:31,battery 12V 12Ah,elapsed_time,470,min
+pole.pdf,103,battery_discharge,48,18:31,battery 12V 12Ah,voltage,11.58,V
+pole.pdf,103,battery_discharge,48,18:31,battery 12V 12Ah,current,0.15,A
+pole.pdf,103,battery_discharge,48,18:31,battery 12V 12Ah,power,1.737,W
+pole.pdf,103,battery_discharge,49,18:41,battery 12V 12Ah,elapsed_time,480,min
+pole.pdf,103,battery_discharge,49,18:41,battery 12V 12Ah,voltage,11.57,V
+pole.pdf,103,battery_discharge,49,18:41,battery 12V 12Ah,current,0.16,A
+pole.pdf,103,battery_discharge,49,18:41,battery 12V 12Ah,power,1.8512,W
+pole.pdf,103,battery_discharge,50,18:51,battery 12V 12Ah,elapsed_time,490,min
+pole.pdf,103,battery_discharge,50,18:51,battery 12V 12Ah,voltage,11.56,V
+pole.pdf,103,battery_discharge,50,18:51,battery 12V 12Ah,current,0.16,A
+pole.pdf,103,battery_discharge,50,18:51,battery 12V 12Ah,power,1.8496,W
+pole.pdf,103,battery_discharge,51,19:01,battery 12V 12Ah,elapsed_time,500,min
+pole.pdf,103,battery_discharge,51,19:01,battery 12V 12Ah,voltage,11.55,V
+pole.pdf,103,battery_discharge,51,19:01,battery 12V 12Ah,current,0.15,A
+pole.pdf,103,battery_discharge,51,19:01,battery 12V 12Ah,power,1.7325,W
+pole.pdf,103,battery_discharge,52,19:11,battery 12V 12Ah,elapsed_time,510,min
+pole.pdf,103,battery_discharge,52,19:11,battery 12V 12Ah,voltage,11.52,V
+pole.pdf,103,battery_discharge,52,19:11,battery 12V 12Ah,current,0.19,A
+pole.pdf,103,battery_discharge,52,19:11,battery 12V 12Ah,power,2.1888,W
+pole.pdf,103,battery_discharge,53,19:21,battery 12V 12Ah,elapsed_time,520,min
+pole.pdf,103,battery_discharge,53,19:21,battery 12V 12Ah,voltage,11.5,V
+pole.pdf,103,battery_discharge,53,19:21,battery 12V 12Ah,current,0.19,A
+pole.pdf,103,battery_discharge,53,19:21,battery 12V 12Ah,power,2.185,W
+pole.pdf,103,battery_discharge,54,19:31,battery 12V 12Ah,elapsed_time,530,min
+pole.pdf,103,battery_discharge,54,19:31,battery 12V 12Ah,voltage,11.49,V
+pole.pdf,103,battery_discharge,54,19:31,battery 12V 12Ah,current,0.19,A
+pole.pdf,103,battery_discharge,54,19:31,battery 12V 12Ah,power,2.1831,W
+pole.pdf,103,battery_discharge,55,19:41,battery 12V 12Ah,elapsed_time,540,min
+pole.pdf,103,battery_discharge,55,19:41,battery 12V 12Ah,voltage,11.51,V
+pole.pdf,103,battery_discharge,55,19:41,battery 12V 12Ah,current,0.16,A
+pole.pdf,103,battery_discharge,55,19:41,battery 12V 12Ah,power,1.8416,W
+pole.pdf,103,battery_discharge,56,19:51,battery 12V 12Ah,elapsed_time,550,min
+pole.pdf,103,battery_discharge,56,19:51,battery 12V 12Ah,voltage,11.5,V
+pole.pdf,103,battery_discharge,56,19:51,battery 12V 12Ah,current,0.16,A
+pole.pdf,103,battery_discharge,56,19:51,battery 12V 12Ah,power,1.84,W
+pole.pdf,103,battery_discharge,57,20:01,battery 12V 12Ah,elapsed_time,560,min
+pole.pdf,103,battery_discharge,57,20:01,battery 12V 12Ah,voltage,11.48,V
+pole.pdf,103,battery_discharge,57,20:01,battery 12V 12Ah,current,0.16,A
+pole.pdf,103,battery_discharge,57,20:01,battery 12V 12Ah,power,1.8368,W
+pole.pdf,103,battery_discharge,58,20:11,battery 12V 12Ah,elapsed_time,570,min
+pole.pdf,103,battery_discharge,58,20:11,battery 12V 12Ah,voltage,11.48,V
+pole.pdf,103,battery_discharge,58,20:11,battery 12V 12Ah,current,0.15,A
+pole.pdf,103,battery_discharge,58,20:11,battery 12V 12Ah,power,1.722,W
+pole.pdf,103,battery_discharge,59,20:22,battery 12V 12Ah,elapsed_time,580,min
+pole.pdf,103,battery_discharge,59,20:22,battery 12V 12Ah,voltage,11.46,V
+pole.pdf,103,battery_discharge,59,20:22,battery 12V 12Ah,current,0.16,A
+pole.pdf,103,battery_discharge,59,20:22,battery 12V 12Ah,power,1.8336,W
+pole.pdf,103,battery_discharge,60,20:32,battery 12V 12Ah,elapsed_time,590,min
+pole.pdf,103,battery_discharge,60,20:32,battery 12V 12Ah,voltage,11.46,V
+pole.pdf,103,battery_discharge,60,20:32,battery 12V 12Ah,current,0.16,A
+pole.pdf,103,battery_discharge,60,20:32,battery 12V 12Ah,power,1.8336,W
+pole.pdf,103,battery_discharge,61,20:42,battery 12V 12Ah,elapsed_time,600,min
+pole.pdf,103,battery_discharge,61,20:42,battery 12V 12Ah,voltage,11.45,V
+pole.pdf,103,battery_discharge,61,20:42,battery 12V 12Ah,current,0.16,A
+pole.pdf,103,battery_discharge,61,20:42,battery 12V 12Ah,power,1.832,W
+pole.pdf,103,battery_discharge,62,20:52,battery 12V 12Ah,elapsed_time,610,min
+pole.pdf,103,battery_discharge,62,20:52,battery 12V 12Ah,voltage,11.43,V
+pole.pdf,103,battery_discharge,62,20:52,battery 12V 12Ah,current,0.16,A
+pole.pdf,103,battery_discharge,62,20:52,battery 12V 12Ah,power,1.8288,W
+pole.pdf,103,battery_discharge,63,21:02,battery 12V 12Ah,elapsed_time,620,min
+pole.pdf,103,battery_discharge,63,21:02,battery 12V 12Ah,voltage,11.42,V
+pole.pdf,103,battery_discharge,63,21:02,battery 12V 12Ah,current,0.16,A
+pole.pdf,103,battery_discharge,63,21:02,battery 12V 12Ah,power,1.8272,W
+pole.pdf,103,battery_discharge,64,21:12,battery 12V 12Ah,elapsed_time,630,min
+pole.pdf,103,battery_discharge,64,21:12,battery 12V 12Ah,voltage,11.42,V
+pole.pdf,103,battery_discharge,64,21:12,battery 12V 12Ah,current,0.16,A
+pole.pdf,103,battery_discharge,64,21:12,battery 12V 12Ah,power,1.8272,W
+pole.pdf,103,battery_discharge,65,21:22,battery 12V 12Ah,elapsed_time,640,min
+pole.pdf,103,battery_discharge,65,21:22,battery 12V 12Ah,voltage,11.4,V
+pole.pdf,103,battery_discharge,65,21:22,battery 12V 12Ah,current,0.16,A
+pole.pdf,103,battery_discharge,65,21:22,battery 12V 12Ah,power,1.824,W
+pole.pdf,103,battery_discharge,66,21:32,battery 12V 12Ah,elapsed_time,650,min
+pole.pdf,103,battery_discharge,66,21:32,battery 12V 12Ah,voltage,11.4,V
+pole.pdf,103,battery_discharge,66,21:32,battery 12V 12Ah,current,0.15,A
+pole.pdf,103,battery_discharge,66,21:32,battery 12V 12Ah,power,1.71,W
+pole.pdf,103,battery_discharge,67,21:42,battery 12V 12Ah,elapsed_time,660,min
+pole.pdf,103,battery_discharge,67,21:42,battery 12V 12Ah,voltage,11.38,V
+pole.pdf,103,battery_discharge,67,21:42,battery 12V 12Ah,current,0.17,A
+pole.pdf,103,battery_discharge,67,21:42,battery 12V 12Ah,power,1.9346,W
+pole.pdf,103,battery_discharge,68,21:52,battery 12V 12Ah,elapsed_time,670,min
+pole.pdf,103,battery_discharge,68,21:52,battery 12V 12Ah,voltage,11.37,V
+pole.pdf,103,battery_discharge,68,21:52,battery 12V 12Ah,current,0.16,A
+pole.pdf,103,battery_discharge,68,21:52,battery 12V 12Ah,power,1.8192,W
+pole.pdf,104,battery_discharge,69,22:02,battery 12V 12Ah,elapsed_time,680,min
+pole.pdf,104,battery_discharge,69,22:02,battery 12V 12Ah,voltage,11.36,V
+pole.pdf,104,battery_discharge,69,22:02,battery 12V 12Ah,current,0.16,A
+pole.pdf,104,battery_discharge,69,22:02,battery 12V 12Ah,power,1.8176,W
+pole.pdf,104,battery_discharge,70,22:12,battery 12V 12Ah,elapsed_time,690,min
+pole.pdf,104,battery_discharge,70,22:12,battery 12V 12Ah,voltage,11.35,V
+pole.pdf,104,battery_discharge,70,22:12,battery 12V 12Ah,current,0.16,A
+pole.pdf,104,battery_discharge,70,22:12,battery 12V 12Ah,power,1.816,W
+pole.pdf,104,battery_discharge,71,22:22,battery 12V 12Ah,elapsed_time,700,min
+pole.pdf,104,battery_discharge,71,22:22,battery 12V 12Ah,voltage,11.34,V
+pole.pdf,104,battery_discharge,71,22:22,battery 12V 12Ah,current,0.17,A
+pole.pdf,104,battery_discharge,71,22:22,battery 12V 12Ah,power,1.9278,W
+pole.pdf,104,battery_discharge,72,22:32,battery 12V 12Ah,elapsed_time,710,min
+pole.pdf,104,battery_discharge,72,22:32,battery 12V 12Ah,voltage,11.33,V
+pole.pdf,104,battery_discharge,72,22:32,battery 12V 12Ah,current,0.16,A
+pole.pdf,104,battery_discharge,72,22:32,battery 12V 12Ah,power,1.8128,W
+pole.pdf,104,battery_discharge,73,22:42,battery 12V 12Ah,elapsed_time,720,min
+pole.pdf,104,battery_discharge,73,22:42,battery 12V 12Ah,voltage,11.32,V
+pole.pdf,104,battery_discharge,73,22:42,battery 12V 12Ah,current,0.16,A
+pole.pdf,104,battery_discharge,73,22:42,battery 12V 12Ah,power,1.8112,W
+pole.pdf,104,battery_discharge,74,22:52,battery 12V 12Ah,elapsed_time,730,min
+pole.pdf,104,battery_discharge,74,22:52,battery 12V 12Ah,voltage,11.31,V
+pole.pdf,104,battery_discharge,74,22:52,battery 12V 12Ah,current,0.16,A
+pole.pdf,104,battery_discharge,74,22:52,battery 12V 12Ah,power,1.8096,W
+pole.pdf,104,battery_discharge,75,23:02,battery 12V 12Ah,elapsed_time,740,min
+pole.pdf,104,battery_discharge,75,23:02,battery 12V 12Ah,voltage,11.29,V
+pole.pdf,104,battery_discharge,75,23:02,battery 12V 12Ah,current,0.2,A
+pole.pdf,104,battery_discharge,75,23:02,battery 12V 12Ah,power,2.258,W
+pole.pdf,104,battery_discharge,76,23:12,battery 12V 12Ah,elapsed_time,750,min
+pole.pdf,104,battery_discharge,76,23:12,battery 12V 12Ah,voltage,11.3,V
+pole.pdf,104,battery_discharge,76,23:12,battery 12V 12Ah,current,0.17,A
+pole.pdf,104,battery_discharge,76,23:12,battery 12V 12Ah,power,1.921,W
+pole.pdf,104,battery_discharge,77,23:22,battery 12V 12Ah,elapsed_time,760,min
+pole.pdf,104,battery_discharge,77,23:22,battery 12V 12Ah,voltage,11.28,V
+pole.pdf,104,battery_discharge,77,23:22,battery 12V 12Ah,current,0.15,A
+pole.pdf,104,battery_discharge,77,23:22,battery 12V 12Ah,power,1.692,W
+pole.pdf,104,battery_discharge,78,23:32,battery 12V 12Ah,elapsed_time,770,min
+pole.pdf,104,battery_discharge,78,23:32,battery 12V 12Ah,voltage,11.28,V
+pole.pdf,104,battery_discharge,78,23:32,battery 12V 12Ah,current,0.16,A
+pole.pdf,104,battery_discharge,78,23:32,battery 12V 12Ah,power,1.8048,W
+pole.pdf,104,battery_discharge,79,23:42,battery 12V 12Ah,elapsed_time,780,min
+pole.pdf,104,battery_discharge,79,23:42,battery 12V 12Ah,voltage,11.25,V
+pole.pdf,104,battery_discharge,79,23:42,battery 12V 12Ah,current,0.2,A
+pole.pdf,104,battery_discharge,79,23:42,battery 12V 12Ah,power,2.25,W
+pole.pdf,104,battery_discharge,80,23:52,battery 12V 12Ah,elapsed_time,790,min
+pole.pdf,104,battery_discharge,80,23:52,battery 12V 12Ah,voltage,11.25,V
+pole.pdf,104,battery_discharge,80,23:52,battery 12V 12Ah,current,0.17,A
+pole.pdf,104,battery_discharge,80,23:52,battery 12V 12Ah,power,1.9125,W
+pole.pdf,104,battery_discharge,81,0:02,battery 12V 12Ah,elapsed_time,800,min
+pole.pdf,104,battery_discharge,81,0:02,battery 12V 12Ah,voltage,11.24,V
+pole.pdf,104,battery_discharge,81,0:02,battery 12V 12Ah,current,0.16,A
+pole.pdf,104,battery_discharge,81,0:02,battery 12V 12Ah,power,1.7984,W
+pole.pdf,104,battery_discharge,82,0:12,battery 12V 12Ah,elapsed_time,810,min
+pole.pdf,104,battery_discharge,82,0:12,battery 12V 12Ah,voltage,11.24,V
+pole.pdf,104,battery_discharge,82,0:12,battery 12V 12Ah,current,0.15,A
+pole.pdf,104,battery_discharge,82,0:12,battery 12V 12Ah,power,1.686,W
+pole.pdf,104,battery_discharge,83,0:22,battery 12V 12Ah,elapsed_time,820,min
+pole.pdf,104,battery_discharge,83,0:22,battery 12V 12Ah,voltage,11.22,V
+pole.pdf,104,battery_discharge,83,0:22,battery 12V 12Ah,current,0.17,A
+pole.pdf,104,battery_discharge,83,0:22,battery 12V 12Ah,power,1.9074,W
+pole.pdf,104,battery_discharge,84,0:32,battery 12V 12Ah,elapsed_time,830,min
+pole.pdf,104,battery_discharge,84,0:32,battery 12V 12Ah,voltage,11.21,V
+pole.pdf,104,battery_discharge,84,0:32,battery 12V 12Ah,current,0.17,A
+pole.pdf,104,battery_discharge,84,0:32,battery 12V 12Ah,power,1.9057,W
+pole.pdf,104,battery_discharge,85,0:42,battery 12V 12Ah,elapsed_time,840,min
+pole.pdf,104,battery_discharge,85,0:42,battery 12V 12Ah,voltage,11.19,V
+pole.pdf,104,battery_discharge,85,0:42,battery 12V 12Ah,current,0.17,A
+pole.pdf,104,battery_discharge,85,0:42,battery 12V 12Ah,power,1.9023,W
+pole.pdf,104,battery_discharge,86,0:52,battery 12V 12Ah,elapsed_time,850,min
+pole.pdf,104,battery_discharge,86,0:52,battery 12V 12Ah,voltage,11.18,V
+pole.pdf,104,battery_discharge,86,0:52,battery 12V 12Ah,current,0.17,A
+pole.pdf,104,battery_discharge,86,0:52,battery 12V 12Ah,power,1.9006,W
+pole.pdf,104,battery_discharge,87,1:02,battery 12V 12Ah,elapsed_time,860,min
+pole.pdf,104,battery_discharge,87,1:02,battery 12V 12Ah,voltage,11.16,V
+pole.pdf,104,battery_discharge,87,1:02,battery 12V 12Ah,current,0.16,A
+pole.pdf,104,battery_discharge,87,1:02,battery 12V 12Ah,power,1.7856,W
+pole.pdf,104,battery_discharge,88,1:12,battery 12V 12Ah,elapsed_time,870,min
+pole.pdf,104,battery_discharge,88,1:12,battery 12V 12Ah,voltage,11.14,V
+pole.pdf,104,battery_discharge,88,1:12,battery 12V 12Ah,current,0.16,A
+pole.pdf,104,battery_discharge,88,1:12,battery 12V 12Ah,power,1.7824,W
+pole.pdf,104,battery_discharge,89,1:22,battery 12V 12Ah,elapsed_time,880,min
+pole.pdf,104,battery_discharge,89,1:22,battery 12V 12Ah,voltage,11.12,V
+pole.pdf,104,battery_discharge,89,1:22,battery 12V 12Ah,current,0.16,A
+pole.pdf,104,battery_discharge,89,1:22,battery 12V 12Ah,power,1.7792,W
+pole.pdf,104,battery_discharge,90,1:32,battery 12V 12Ah,elapsed_time,890,min
+pole.pdf,104,battery_discharge,90,1:32,battery 12V 12Ah,voltage,11.09,V
+pole.pdf,104,battery_discharge,90,1:32,battery 12V 12Ah,current,0.16,A
+pole.pdf,104,battery_discharge,90,1:32,battery 12V 12Ah,power,1.7744,W
+pole.pdf,104,battery_discharge,91,1:42,battery 12V 12Ah,elapsed_time,900,min
+pole.pdf,104,battery_discharge,91,1:42,battery 12V 12Ah,voltage,11.07,V
+pole.pdf,104,battery_discharge,91,1:42,battery 12V 12Ah,current,0.16,A
+pole.pdf,104,battery_discharge,91,1:42,battery 12V 12Ah,power,1.7712,W
+pole.pdf,104,battery_discharge,92,1:52,battery 12V 12Ah,elapsed_time,910,min
+pole.pdf,104,battery_discharge,92,1:52,battery 12V 12Ah,voltage,11.04,V
+pole.pdf,104,battery_discharge,92,1:52,battery 12V 12Ah,current,0.16,A
+pole.pdf,104,battery_discharge,92,1:52,battery 12V 12Ah,power,1.7664,W
+pole.pdf,104,battery_discharge,93,2:02,battery 12V 12Ah,elapsed_time,920,min
+pole.pdf,104,battery_discharge,93,2:02,battery 12V 12Ah,voltage,11.01,V
+pole.pdf,104,battery_discharge,93,2:02,battery 12V 12Ah,current,0.15,A
+pole.pdf,104,battery_discharge,93,2:02,battery 12V 12Ah,power,1.6515,W
+pole.pdf,104,battery_discharge,94,2:12,battery 12V 12Ah,elapsed_time,930,min
+pole.pdf,104,battery_discharge,94,2:12,battery 12V 12Ah,voltage,10.96,V
+pole.pdf,104,battery_discharge,94,2:12,battery 12V 12Ah,current,0.19,A
+pole.pdf,104,battery_discharge,94,2:12,battery 12V 12Ah,power,2.0824,W
+pole.pdf,104,battery_discharge,95,2:22,battery 12V 12Ah,elapsed_time,940,min
+pole.pdf,104,battery_discharge,95,2:22,battery 12V 12Ah,voltage,10.93,V
+pole.pdf,104,battery_discharge,95,2:22,battery 12V 12Ah,current,0.16,A
+pole.pdf,104,battery_discharge,95,2:22,battery 12V 12Ah,power,1.7488,W
+pole.pdf,104,battery_discharge,96,2:32,battery 12V 12Ah,elapsed_time,950,min
+pole.pdf,104,battery_discharge,96,2:32,battery 12V 12Ah,voltage,10.88,V
+pole.pdf,104,battery_discharge,96,2:32,battery 12V 12Ah,current,0.16,A
+pole.pdf,104,battery_discharge,96,2:32,battery 12V 12Ah,power,1.7408,W
+pole.pdf,104,battery_discharge,97,2:43,battery 12V 12Ah,elapsed_time,960,min
+pole.pdf,104,battery_discharge,97,2:43,battery 12V 12Ah,voltage,10.82,V
+pole.pdf,104,battery_discharge,97,2:43,battery 12V 12Ah,current,0.16,A
+pole.pdf,104,battery_discharge,97,2:43,battery 12V 12Ah,power,1.7312,W
+pole.pdf,104,battery_discharge,98,2:53,battery 12V 12Ah,elapsed_time,970,min
+pole.pdf,104,battery_discharge,98,2:53,battery 12V 12Ah,voltage,10.73,V
+pole.pdf,104,battery_discharge,98,2:53,battery 12V 12Ah,current,0.18,A
+pole.pdf,104,battery_discharge,98,2:53,battery 12V 12Ah,power,1.9314,W
+pole.pdf,105,battery_discharge,99,3:03,battery 12V 12Ah,elapsed_time,980,min
+pole.pdf,105,battery_discharge,99,3:03,battery 12V 12Ah,voltage,10.64,V
+pole.pdf,105,battery_discharge,99,3:03,battery 12V 12Ah,current,0.18,A
+pole.pdf,105,battery_discharge,99,3:03,battery 12V 12Ah,power,1.9152,W
+pole.pdf,105,battery_discharge,100,3:13,battery 12V 12Ah,elapsed_time,990,min
+pole.pdf,105,battery_discharge,100,3:13,battery 12V 12Ah,voltage,10.5,V
+pole.pdf,105,battery_discharge,100,3:13,battery 12V 12Ah,current,0.16,A
+pole.pdf,105,battery_discharge,100,3:13,battery 12V 12Ah,power,1.68,W
+pole.pdf,105,battery_discharge,101,3:23,battery 12V 12Ah,elapsed_time,1000,min
+pole.pdf,105,battery_discharge,101,3:23,battery 12V 12Ah,voltage,10.22,V
+pole.pdf,105,battery_discharge,101,3:23,battery 12V 12Ah,current,0.21,A
+pole.pdf,105,battery_discharge,101,3:23,battery 12V 12Ah,power,2.1462,W
+pole.pdf,105,sensor_test_soil,1,,7-in-1 soil sensor (RS485),soil_temperature,26.2,
+pole.pdf,105,sensor_test_soil,1,,7-in-1 soil sensor (RS485),soil_moisture,2,
+pole.pdf,105,sensor_test_soil,1,,7-in-1 soil sensor (RS485),soil_ec,0,
+pole.pdf,105,sensor_test_soil,1,,7-in-1 soil sensor (RS485),soil_ph,9,
+pole.pdf,105,sensor_test_soil,1,,7-in-1 soil sensor (RS485),soil_n,0,
+pole.pdf,105,sensor_test_soil,1,,7-in-1 soil sensor (RS485),soil_p,0,
+pole.pdf,105,sensor_test_soil,1,,7-in-1 soil sensor (RS485),soil_k,0,
+pole.pdf,105,sensor_test_soil,2,,7-in-1 soil sensor (RS485),soil_temperature,28.5,
+pole.pdf,105,sensor_test_soil,2,,7-in-1 soil sensor (RS485),soil_moisture,3.4,
+pole.pdf,105,sensor_test_soil,2,,7-in-1 soil sensor (RS485),soil_ec,0,
+pole.pdf,105,sensor_test_soil,2,,7-in-1 soil sensor (RS485),soil_ph,6.5,
+pole.pdf,105,sensor_test_soil,2,,7-in-1 soil sensor (RS485),soil_n,0,
+pole.pdf,105,sensor_test_soil,2,,7-in-1 soil sensor (RS485),soil_p,0,
+pole.pdf,105,sensor_test_soil,2,,7-in-1 soil sensor (RS485),soil_k,0,
+pole.pdf,105,sensor_test_soil,3,,7-in-1 soil sensor (RS485),soil_temperature,36.2,
+pole.pdf,105,sensor_test_soil,3,,7-in-1 soil sensor (RS485),soil_moisture,4.5,
+pole.pdf,105,sensor_test_soil,3,,7-in-1 soil sensor (RS485),soil_ec,0,
+pole.pdf,105,sensor_test_soil,3,,7-in-1 soil sensor (RS485),soil_ph,6,
+pole.pdf,105,sensor_test_soil,3,,7-in-1 soil sensor (RS485),soil_n,0,
+pole.pdf,105,sensor_test_soil,3,,7-in-1 soil sensor (RS485),soil_p,0,
+pole.pdf,105,sensor_test_soil,3,,7-in-1 soil sensor (RS485),soil_k,0,
+pole.pdf,105,sensor_test_soil,4,,7-in-1 soil sensor (RS485),soil_temperature,42.5,
+pole.pdf,105,sensor_test_soil,4,,7-in-1 soil sensor (RS485),soil_moisture,4,
+pole.pdf,105,sensor_test_soil,4,,7-in-1 soil sensor (RS485),soil_ec,0,
+pole.pdf,105,sensor_test_soil,4,,7-in-1 soil sensor (RS485),soil_ph,7.2,
+pole.pdf,105,sensor_test_soil,4,,7-in-1 soil sensor (RS485),soil_n,0,
+pole.pdf,105,sensor_test_soil,4,,7-in-1 soil sensor (RS485),soil_p,0,
+pole.pdf,105,sensor_test_soil,4,,7-in-1 soil sensor (RS485),soil_k,0,
+pole.pdf,105,sensor_test_soil,5,,7-in-1 soil sensor (RS485),soil_temperature,49.6,
+pole.pdf,105,sensor_test_soil,5,,7-in-1 soil sensor (RS485),soil_moisture,10.3,
+pole.pdf,105,sensor_test_soil,5,,7-in-1 soil sensor (RS485),soil_ec,0,
+pole.pdf,105,sensor_test_soil,5,,7-in-1 soil sensor (RS485),soil_ph,7.6,
+pole.pdf,105,sensor_test_soil,5,,7-in-1 soil sensor (RS485),soil_n,0,
+pole.pdf,105,sensor_test_soil,5,,7-in-1 soil sensor (RS485),soil_p,0,
+pole.pdf,105,sensor_test_soil,5,,7-in-1 soil sensor (RS485),soil_k,0,
+pole.pdf,105,sensor_test_soil,6,,7-in-1 soil sensor (RS485),soil_temperature,45.3,
+pole.pdf,105,sensor_test_soil,6,,7-in-1 soil sensor (RS485),soil_moisture,6.9,
+pole.pdf,105,sensor_test_soil,6,,7-in-1 soil sensor (RS485),soil_ec,0,
+pole.pdf,105,sensor_test_soil,6,,7-in-1 soil sensor (RS485),soil_ph,7.8,
+pole.pdf,105,sensor_test_soil,6,,7-in-1 soil sensor (RS485),soil_n,0,
+pole.pdf,105,sensor_test_soil,6,,7-in-1 soil sensor (RS485),soil_p,0,
+pole.pdf,105,sensor_test_soil,6,,7-in-1 soil sensor (RS485),soil_k,0,
+pole.pdf,106,sensor_test_soil,7,,7-in-1 soil sensor (RS485),soil_temperature,38,
+pole.pdf,106,sensor_test_soil,7,,7-in-1 soil sensor (RS485),soil_moisture,100,
+pole.pdf,106,sensor_test_soil,7,,7-in-1 soil sensor (RS485),soil_ec,4.4,
+pole.pdf,106,sensor_test_soil,7,,7-in-1 soil sensor (RS485),soil_ph,7.2,
+pole.pdf,106,sensor_test_soil,7,,7-in-1 soil sensor (RS485),soil_n,7.2,
+pole.pdf,106,sensor_test_soil,7,,7-in-1 soil sensor (RS485),soil_p,18.9,
+pole.pdf,106,sensor_test_soil,7,,7-in-1 soil sensor (RS485),soil_k,18.7,
+pole.pdf,106,sensor_test_soil,8,,7-in-1 soil sensor (RS485),soil_temperature,34.5,
+pole.pdf,106,sensor_test_soil,8,,7-in-1 soil sensor (RS485),soil_moisture,100,
+pole.pdf,106,sensor_test_soil,8,,7-in-1 soil sensor (RS485),soil_ec,4.1,
+pole.pdf,106,sensor_test_soil,8,,7-in-1 soil sensor (RS485),soil_ph,9,
+pole.pdf,106,sensor_test_soil,8,,7-in-1 soil sensor (RS485),soil_n,6.6,
+pole.pdf,106,sensor_test_soil,8,,7-in-1 soil sensor (RS485),soil_p,17.7,
+pole.pdf,106,sensor_test_soil,8,,7-in-1 soil sensor (RS485),soil_k,17.4,
+pole.pdf,106,sensor_test_soil,9,,7-in-1 soil sensor (RS485),soil_temperature,32.5,
+pole.pdf,106,sensor_test_soil,9,,7-in-1 soil sensor (RS485),soil_moisture,100,
+pole.pdf,106,sensor_test_soil,9,,7-in-1 soil sensor (RS485),soil_ec,3.9,
+pole.pdf,106,sensor_test_soil,9,,7-in-1 soil sensor (RS485),soil_ph,9,
+pole.pdf,106,sensor_test_soil,9,,7-in-1 soil sensor (RS485),soil_n,6.2,
+pole.pdf,106,sensor_test_soil,9,,7-in-1 soil sensor (RS485),soil_p,16.6,
+pole.pdf,106,sensor_test_soil,9,,7-in-1 soil sensor (RS485),soil_k,16.3,
+pole.pdf,106,sensor_test_soil,10,,7-in-1 soil sensor (RS485),soil_temperature,32,
+pole.pdf,106,sensor_test_soil,10,,7-in-1 soil sensor (RS485),soil_moisture,100,
+pole.pdf,106,sensor_test_soil,10,,7-in-1 soil sensor (RS485),soil_ec,3.9,
+pole.pdf,106,sensor_test_soil,10,,7-in-1 soil sensor (RS485),soil_ph,9,
+pole.pdf,106,sensor_test_soil,10,,7-in-1 soil sensor (RS485),soil_n,6.3,
+pole.pdf,106,sensor_test_soil,10,,7-in-1 soil sensor (RS485),soil_p,16.8,
+pole.pdf,106,sensor_test_soil,10,,7-in-1 soil sensor (RS485),soil_k,16.5,
+pole.pdf,106,sensor_test_air,1,,SHT30 RS485 RH/TEMP sensor,air_temperature,27.2,
+pole.pdf,106,sensor_test_air,1,,SHT30 RS485 RH/TEMP sensor,air_humidity,84.9,
+pole.pdf,106,sensor_test_air,2,,SHT30 RS485 RH/TEMP sensor,air_temperature,28.7,
+pole.pdf,106,sensor_test_air,2,,SHT30 RS485 RH/TEMP sensor,air_humidity,77.8,
+pole.pdf,106,sensor_test_air,3,,SHT30 RS485 RH/TEMP sensor,air_temperature,34.6,
+pole.pdf,106,sensor_test_air,3,,SHT30 RS485 RH/TEMP sensor,air_humidity,56.8,
+pole.pdf,106,sensor_test_air,4,,SHT30 RS485 RH/TEMP sensor,air_temperature,35.9,
+pole.pdf,106,sensor_test_air,4,,SHT30 RS485 RH/TEMP sensor,air_humidity,50.5,
+pole.pdf,106,sensor_test_air,5,,SHT30 RS485 RH/TEMP sensor,air_temperature,39.1,
+pole.pdf,106,sensor_test_air,5,,SHT30 RS485 RH/TEMP sensor,air_humidity,41.5,
+pole.pdf,106,sensor_test_air,6,,SHT30 RS485 RH/TEMP sensor,air_temperature,37.7,
+pole.pdf,106,sensor_test_air,6,,SHT30 RS485 RH/TEMP sensor,air_humidity,44.8,
+pole.pdf,106,sensor_test_air,7,,SHT30 RS485 RH/TEMP sensor,air_temperature,38.1,
+pole.pdf,106,sensor_test_air,7,,SHT30 RS485 RH/TEMP sensor,air_humidity,40.6,
+pole.pdf,106,sensor_test_air,8,,SHT30 RS485 RH/TEMP sensor,air_temperature,36.9,
+pole.pdf,106,sensor_test_air,8,,SHT30 RS485 RH/TEMP sensor,air_humidity,41.8,
+pole.pdf,106,sensor_test_air,9,,SHT30 RS485 RH/TEMP sensor,air_temperature,34.1,
+pole.pdf,106,sensor_test_air,9,,SHT30 RS485 RH/TEMP sensor,air_humidity,50.9,
+pole.pdf,106,sensor_test_air,10,,SHT30 RS485 RH/TEMP sensor,air_temperature,33.6,
+pole.pdf,106,sensor_test_air,10,,SHT30 RS485 RH/TEMP sensor,air_humidity,52.8,
+pole.pdf,107,sensor_test_wind,1,,wind speed sensor,wind_speed,0.8,
+pole.pdf,107,sensor_test_wind,2,,wind speed sensor,wind_speed,1,
+pole.pdf,107,sensor_test_wind,3,,wind speed sensor,wind_speed,0.6,
+pole.pdf,107,sensor_test_wind,4,,wind speed sensor,wind_speed,0.8,
+pole.pdf,107,sensor_test_wind,5,,wind speed sensor,wind_speed,0.4,
+pole.pdf,107,sensor_test_wind,6,,wind speed sensor,wind_speed,0.3,
+pole.pdf,107,sensor_test_wind,7,,wind speed sensor,wind_speed,0,
+pole.pdf,107,sensor_test_wind,8,,wind speed sensor,wind_speed,0.2,
+pole.pdf,107,sensor_test_wind,9,,wind speed sensor,wind_speed,0,
+pole.pdf,107,sensor_test_wind,10,,wind speed sensor,wind_speed,2,
+pole.pdf,108,sensor_test_light,1,,GY-30 light sensor,light_intensity,1956,
+pole.pdf,108,sensor_test_light,2,,GY-30 light sensor,light_intensity,6920,
+pole.pdf,108,sensor_test_light,3,,GY-30 light sensor,light_intensity,19373,
+pole.pdf,108,sensor_test_light,4,,GY-30 light sensor,light_intensity,38756,
+pole.pdf,108,sensor_test_light,5,,GY-30 light sensor,light_intensity,49510,
+pole.pdf,108,sensor_test_light,6,,GY-30 light sensor,light_intensity,54612,
+pole.pdf,108,sensor_test_light,7,,GY-30 light sensor,light_intensity,12820,
+pole.pdf,108,sensor_test_light,8,,GY-30 light sensor,light_intensity,9113,
+pole.pdf,108,sensor_test_light,9,,GY-30 light sensor,light_intensity,5046,
+pole.pdf,108,sensor_test_light,10,,GY-30 light sensor,light_intensity,5126,
+pole.pdf,109,sensor_test_pressure,1,,BME280 sensor,air_pressure,1011,
+pole.pdf,109,sensor_test_pressure,2,,BME280 sensor,air_pressure,1012,
+pole.pdf,109,sensor_test_pressure,3,,BME280 sensor,air_pressure,1013,
+pole.pdf,109,sensor_test_pressure,4,,BME280 sensor,air_pressure,1013,
+pole.pdf,109,sensor_test_pressure,5,,BME280 sensor,air_pressure,1012,
+pole.pdf,109,sensor_test_pressure,6,,BME280 sensor,air_pressure,1011,
+pole.pdf,109,sensor_test_pressure,7,,BME280 sensor,air_pressure,1010,
+pole.pdf,109,sensor_test_pressure,8,,BME280 sensor,air_pressure,1008,
+pole.pdf,109,sensor_test_pressure,9,,BME280 sensor,air_pressure,1008,
+pole.pdf,109,sensor_test_pressure,10,,BME280 sensor,air_pressure,1007,
+pole.pdf,110,sensor_test_float_switch,1,,float switch,works,1,
+pole.pdf,110,sensor_test_float_switch,2,,float switch,works,1,
+pole.pdf,110,sensor_test_float_switch,3,,float switch,works,1,
+pole.pdf,110,sensor_test_float_switch,4,,float switch,works,1,
+pole.pdf,110,sensor_test_float_switch,5,,float switch,works,1,
+pole.pdf,110,sensor_test_float_switch,6,,float switch,works,1,
+pole.pdf,110,sensor_test_float_switch,7,,float switch,works,1,
+pole.pdf,110,sensor_test_float_switch,8,,float switch,works,1,
+pole.pdf,110,sensor_test_float_switch,9,,float switch,works,1,
+pole.pdf,110,sensor_test_float_switch,10,,float switch,works,1,
+sw.pdf,16,lora_400m,1,,pole (sender),sent,1,
+sw.pdf,16,lora_400m,1,,gateway (receiver),received,1,
+sw.pdf,16,lora_400m,1,,gateway (receiver),rssi,-85,dBm
+sw.pdf,16,lora_400m,1,,gateway (receiver),snr,9.0,dB
+sw.pdf,16,lora_400m,2,,pole (sender),sent,1,
+sw.pdf,16,lora_400m,2,,gateway (receiver),received,1,
+sw.pdf,16,lora_400m,2,,gateway (receiver),rssi,-87,dBm
+sw.pdf,16,lora_400m,2,,gateway (receiver),snr,8.5,dB
+sw.pdf,16,lora_400m,3,,pole (sender),sent,1,
+sw.pdf,16,lora_400m,3,,gateway (receiver),received,1,
+sw.pdf,16,lora_400m,3,,gateway (receiver),rssi,-88,dBm
+sw.pdf,16,lora_400m,3,,gateway (receiver),snr,8.0,dB
+sw.pdf,16,lora_400m,4,,pole (sender),sent,1,
+sw.pdf,16,lora_400m,4,,gateway (receiver),received,1,
+sw.pdf,16,lora_400m,4,,gateway (receiver),rssi,-90,dBm
+sw.pdf,16,lora_400m,4,,gateway (receiver),snr,7.5,dB
+sw.pdf,16,lora_400m,5,,pole (sender),sent,1,
+sw.pdf,16,lora_400m,5,,gateway (receiver),received,1,
+sw.pdf,16,lora_400m,5,,gateway (receiver),rssi,-92,dBm
+sw.pdf,16,lora_400m,5,,gateway (receiver),snr,7.0,dB
+sw.pdf,16,lora_400m,6,,pole (sender),sent,1,
+sw.pdf,16,lora_400m,6,,gateway (receiver),received,1,
+sw.pdf,16,lora_400m,6,,gateway (receiver),rssi,-94,dBm
+sw.pdf,16,lora_400m,6,,gateway (receiver),snr,6.5,dB
+sw.pdf,16,lora_400m,7,,pole (sender),sent,1,
+sw.pdf,16,lora_400m,7,,gateway (receiver),received,1,
+sw.pdf,16,lora_400m,7,,gateway (receiver),rssi,-96,dBm
+sw.pdf,16,lora_400m,7,,gateway (receiver),snr,5.0,dB
+sw.pdf,16,lora_400m,8,,pole (sender),sent,1,
+sw.pdf,16,lora_400m,8,,gateway (receiver),received,1,
+sw.pdf,16,lora_400m,8,,gateway (receiver),rssi,-87,dBm
+sw.pdf,16,lora_400m,8,,gateway (receiver),snr,8.2,dB
+sw.pdf,16,lora_400m,9,,pole (sender),sent,1,
+sw.pdf,16,lora_400m,9,,gateway (receiver),received,1,
+sw.pdf,16,lora_400m,9,,gateway (receiver),rssi,-90,dBm
+sw.pdf,16,lora_400m,9,,gateway (receiver),snr,7.8,dB
+sw.pdf,16,lora_400m,10,,pole (sender),sent,1,
+sw.pdf,16,lora_400m,10,,gateway (receiver),received,1,
+sw.pdf,16,lora_400m,10,,gateway (receiver),rssi,-89,dBm
+sw.pdf,16,lora_400m,10,,gateway (receiver),snr,8.0,dB
+sw.pdf,17,lora_400m,11,,pole (sender),sent,1,
+sw.pdf,17,lora_400m,11,,gateway (receiver),received,0,
+sw.pdf,17,lora_400m,12,,pole (sender),sent,1,
+sw.pdf,17,lora_400m,12,,gateway (receiver),received,1,
+sw.pdf,17,lora_400m,12,,gateway (receiver),rssi,-97,dBm
+sw.pdf,17,lora_400m,12,,gateway (receiver),snr,6.3,dB
+sw.pdf,17,lora_400m,13,,pole (sender),sent,1,
+sw.pdf,17,lora_400m,13,,gateway (receiver),received,1,
+sw.pdf,17,lora_400m,13,,gateway (receiver),rssi,-96,dBm
+sw.pdf,17,lora_400m,13,,gateway (receiver),snr,7.0,dB
+sw.pdf,17,lora_400m,14,,pole (sender),sent,1,
+sw.pdf,17,lora_400m,14,,gateway (receiver),received,1,
+sw.pdf,17,lora_400m,14,,gateway (receiver),rssi,-89,dBm
+sw.pdf,17,lora_400m,14,,gateway (receiver),snr,8.2,dB
+sw.pdf,17,lora_400m,15,,pole (sender),sent,1,
+sw.pdf,17,lora_400m,15,,gateway (receiver),received,1,
+sw.pdf,17,lora_400m,15,,gateway (receiver),rssi,-87,dBm
+sw.pdf,17,lora_400m,15,,gateway (receiver),snr,5.3,dB
+sw.pdf,17,lora_400m,16,,pole (sender),sent,1,
+sw.pdf,17,lora_400m,16,,gateway (receiver),received,1,
+sw.pdf,17,lora_400m,16,,gateway (receiver),rssi,-85,dBm
+sw.pdf,17,lora_400m,16,,gateway (receiver),snr,6.4,dB
+sw.pdf,17,lora_400m,17,,pole (sender),sent,1,
+sw.pdf,17,lora_400m,17,,gateway (receiver),received,1,
+sw.pdf,17,lora_400m,17,,gateway (receiver),rssi,-90,dBm
+sw.pdf,17,lora_400m,17,,gateway (receiver),snr,7.1,dB
+sw.pdf,17,lora_400m,18,,pole (sender),sent,1,
+sw.pdf,17,lora_400m,18,,gateway (receiver),received,1,
+sw.pdf,17,lora_400m,18,,gateway (receiver),rssi,-83,dBm
+sw.pdf,17,lora_400m,18,,gateway (receiver),snr,6.5,dB
+sw.pdf,17,lora_400m,19,,pole (sender),sent,1,
+sw.pdf,17,lora_400m,19,,gateway (receiver),received,1,
+sw.pdf,17,lora_400m,19,,gateway (receiver),rssi,-85,dBm
+sw.pdf,17,lora_400m,19,,gateway (receiver),snr,6.7,dB
+sw.pdf,17,lora_400m,20,,pole (sender),sent,1,
+sw.pdf,17,lora_400m,20,,gateway (receiver),received,1,
+sw.pdf,17,lora_400m,20,,gateway (receiver),rssi,-93,dBm
+sw.pdf,17,lora_400m,20,,gateway (receiver),snr,6.9,dB
+sw.pdf,18,lora_400m,21,,pole (sender),sent,1,
+sw.pdf,18,lora_400m,21,,gateway (receiver),received,1,
+sw.pdf,18,lora_400m,21,,gateway (receiver),rssi,-91,dBm
+sw.pdf,18,lora_400m,21,,gateway (receiver),snr,7.2,dB
+sw.pdf,18,lora_400m,22,,pole (sender),sent,1,
+sw.pdf,18,lora_400m,22,,gateway (receiver),received,1,
+sw.pdf,18,lora_400m,22,,gateway (receiver),rssi,-84,dBm
+sw.pdf,18,lora_400m,22,,gateway (receiver),snr,5.3,dB
+sw.pdf,18,lora_400m,23,,pole (sender),sent,1,
+sw.pdf,18,lora_400m,23,,gateway (receiver),received,1,
+sw.pdf,18,lora_400m,23,,gateway (receiver),rssi,-87,dBm
+sw.pdf,18,lora_400m,23,,gateway (receiver),snr,5.5,dB
+sw.pdf,18,lora_400m,24,,pole (sender),sent,1,
+sw.pdf,18,lora_400m,24,,gateway (receiver),received,1,
+sw.pdf,18,lora_400m,24,,gateway (receiver),rssi,-90,dBm
+sw.pdf,18,lora_400m,24,,gateway (receiver),snr,7.5,dB
+sw.pdf,18,lora_400m,25,,pole (sender),sent,1,
+sw.pdf,18,lora_400m,25,,gateway (receiver),received,1,
+sw.pdf,18,lora_400m,25,,gateway (receiver),rssi,-83,dBm
+sw.pdf,18,lora_400m,25,,gateway (receiver),snr,6.8,dB
+sw.pdf,18,lora_400m,26,,pole (sender),sent,1,
+sw.pdf,18,lora_400m,26,,gateway (receiver),received,1,
+sw.pdf,18,lora_400m,26,,gateway (receiver),rssi,-85,dBm
+sw.pdf,18,lora_400m,26,,gateway (receiver),snr,7.1,dB
+sw.pdf,18,lora_400m,27,,pole (sender),sent,1,
+sw.pdf,18,lora_400m,27,,gateway (receiver),received,1,
+sw.pdf,18,lora_400m,27,,gateway (receiver),rssi,-92,dBm
+sw.pdf,18,lora_400m,27,,gateway (receiver),snr,6.8,dB
+sw.pdf,18,lora_400m,28,,pole (sender),sent,1,
+sw.pdf,18,lora_400m,28,,gateway (receiver),received,1,
+sw.pdf,18,lora_400m,28,,gateway (receiver),rssi,-87,dBm
+sw.pdf,18,lora_400m,28,,gateway (receiver),snr,6.2,dB
+sw.pdf,18,lora_400m,29,,pole (sender),sent,1,
+sw.pdf,18,lora_400m,29,,gateway (receiver),received,1,
+sw.pdf,18,lora_400m,29,,gateway (receiver),rssi,-88,dBm
+sw.pdf,18,lora_400m,29,,gateway (receiver),snr,7.1,dB
+sw.pdf,18,lora_400m,30,,pole (sender),sent,1,
+sw.pdf,18,lora_400m,30,,gateway (receiver),received,1,
+sw.pdf,18,lora_400m,30,,gateway (receiver),rssi,-91,dBm
+sw.pdf,18,lora_400m,30,,gateway (receiver),snr,6.7,dB
+sw.pdf,19,lora_400m,31,,pole (sender),sent,1,
+sw.pdf,19,lora_400m,31,,gateway (receiver),received,1,
+sw.pdf,19,lora_400m,31,,gateway (receiver),rssi,-89,dBm
+sw.pdf,19,lora_400m,31,,gateway (receiver),snr,5.9,dB
+sw.pdf,19,lora_400m,32,,pole (sender),sent,1,
+sw.pdf,19,lora_400m,32,,gateway (receiver),received,1,
+sw.pdf,19,lora_400m,32,,gateway (receiver),rssi,-87,dBm
+sw.pdf,19,lora_400m,32,,gateway (receiver),snr,6.0,dB
+sw.pdf,19,lora_400m,33,,pole (sender),sent,1,
+sw.pdf,19,lora_400m,33,,gateway (receiver),received,1,
+sw.pdf,19,lora_400m,33,,gateway (receiver),rssi,-95,dBm
+sw.pdf,19,lora_400m,33,,gateway (receiver),snr,5.9,dB
+sw.pdf,19,lora_400m,34,,pole (sender),sent,1,
+sw.pdf,19,lora_400m,34,,gateway (receiver),received,1,
+sw.pdf,19,lora_400m,34,,gateway (receiver),rssi,-92,dBm
+sw.pdf,19,lora_400m,34,,gateway (receiver),snr,6.9,dB
+sw.pdf,19,lora_400m,35,,pole (sender),sent,1,
+sw.pdf,19,lora_400m,35,,gateway (receiver),received,1,
+sw.pdf,19,lora_400m,35,,gateway (receiver),rssi,-86,dBm
+sw.pdf,19,lora_400m,35,,gateway (receiver),snr,6.0,dB
+sw.pdf,19,lora_400m,36,,pole (sender),sent,1,
+sw.pdf,19,lora_400m,36,,gateway (receiver),received,1,
+sw.pdf,19,lora_400m,36,,gateway (receiver),rssi,-90,dBm
+sw.pdf,19,lora_400m,36,,gateway (receiver),snr,7.5,dB
+sw.pdf,19,lora_400m,37,,pole (sender),sent,1,
+sw.pdf,19,lora_400m,37,,gateway (receiver),received,1,
+sw.pdf,19,lora_400m,37,,gateway (receiver),rssi,-97,dBm
+sw.pdf,19,lora_400m,37,,gateway (receiver),snr,6.3,dB
+sw.pdf,19,lora_400m,38,,pole (sender),sent,1,
+sw.pdf,19,lora_400m,38,,gateway (receiver),received,0,
+sw.pdf,19,lora_400m,39,,pole (sender),sent,1,
+sw.pdf,19,lora_400m,39,,gateway (receiver),received,1,
+sw.pdf,19,lora_400m,39,,gateway (receiver),rssi,-89,dBm
+sw.pdf,19,lora_400m,39,,gateway (receiver),snr,5.8,dB
+sw.pdf,19,lora_400m,40,,pole (sender),sent,1,
+sw.pdf,19,lora_400m,40,,gateway (receiver),received,1,
+sw.pdf,19,lora_400m,40,,gateway (receiver),rssi,-87,dBm
+sw.pdf,19,lora_400m,40,,gateway (receiver),snr,6.1,dB
+sw.pdf,20,lora_400m,41,,pole (sender),sent,1,
+sw.pdf,20,lora_400m,41,,gateway (receiver),received,1,
+sw.pdf,20,lora_400m,41,,gateway (receiver),rssi,-94,dBm
+sw.pdf,20,lora_400m,41,,gateway (receiver),snr,6.5,dB
+sw.pdf,20,lora_400m,42,,pole (sender),sent,1,
+sw.pdf,20,lora_400m,42,,gateway (receiver),received,1,
+sw.pdf,20,lora_400m,42,,gateway (receiver),rssi,-85,dBm
+sw.pdf,20,lora_400m,42,,gateway (receiver),snr,7.5,dB
+sw.pdf,20,lora_400m,43,,pole (sender),sent,1,
+sw.pdf,20,lora_400m,43,,gateway (receiver),received,1,
+sw.pdf,20,lora_400m,43,,gateway (receiver),rssi,-88,dBm
+sw.pdf,20,lora_400m,43,,gateway (receiver),snr,6.9,dB
+sw.pdf,20,lora_400m,44,,pole (sender),sent,1,
+sw.pdf,20,lora_400m,44,,gateway (receiver),received,1,
+sw.pdf,20,lora_400m,44,,gateway (receiver),rssi,-90,dBm
+sw.pdf,20,lora_400m,44,,gateway (receiver),snr,7.3,dB
+sw.pdf,20,lora_400m,45,,pole (sender),sent,1,
+sw.pdf,20,lora_400m,45,,gateway (receiver),received,1,
+sw.pdf,20,lora_400m,45,,gateway (receiver),rssi,-91,dBm
+sw.pdf,20,lora_400m,45,,gateway (receiver),snr,5.8,dB
+sw.pdf,20,lora_400m,46,,pole (sender),sent,1,
+sw.pdf,20,lora_400m,46,,gateway (receiver),received,1,
+sw.pdf,20,lora_400m,46,,gateway (receiver),rssi,-89,dBm
+sw.pdf,20,lora_400m,46,,gateway (receiver),snr,7.2,dB
+sw.pdf,20,lora_400m,47,,pole (sender),sent,1,
+sw.pdf,20,lora_400m,47,,gateway (receiver),received,1,
+sw.pdf,20,lora_400m,47,,gateway (receiver),rssi,-92,dBm
+sw.pdf,20,lora_400m,47,,gateway (receiver),snr,6.2,dB
+sw.pdf,20,lora_400m,48,,pole (sender),sent,1,
+sw.pdf,20,lora_400m,48,,gateway (receiver),received,1,
+sw.pdf,20,lora_400m,48,,gateway (receiver),rssi,-86,dBm
+sw.pdf,20,lora_400m,48,,gateway (receiver),snr,7.4,dB
+sw.pdf,20,lora_400m,49,,pole (sender),sent,1,
+sw.pdf,20,lora_400m,49,,gateway (receiver),received,1,
+sw.pdf,20,lora_400m,49,,gateway (receiver),rssi,-88,dBm
+sw.pdf,20,lora_400m,49,,gateway (receiver),snr,8.2,dB
+sw.pdf,20,lora_400m,50,,pole (sender),sent,1,
+sw.pdf,20,lora_400m,50,,gateway (receiver),received,1,
+sw.pdf,20,lora_400m,50,,gateway (receiver),rssi,-89,dBm
+sw.pdf,20,lora_400m,50,,gateway (receiver),snr,7.8,dB
+sw.pdf,24,lora_60m,1,,pole (sender),sent,1,
+sw.pdf,24,lora_60m,1,,gateway (receiver),received,1,
+sw.pdf,24,lora_60m,1,,gateway (receiver),rssi,-45,dBm
+sw.pdf,24,lora_60m,1,,gateway (receiver),snr,10.2,dB
+sw.pdf,24,lora_60m,2,,pole (sender),sent,1,
+sw.pdf,24,lora_60m,2,,gateway (receiver),received,1,
+sw.pdf,24,lora_60m,2,,gateway (receiver),rssi,-46,dBm
+sw.pdf,24,lora_60m,2,,gateway (receiver),snr,10.0,dB
+sw.pdf,24,lora_60m,3,,pole (sender),sent,1,
+sw.pdf,24,lora_60m,3,,gateway (receiver),received,1,
+sw.pdf,24,lora_60m,3,,gateway (receiver),rssi,-45,dBm
+sw.pdf,24,lora_60m,3,,gateway (receiver),snr,10.5,dB
+sw.pdf,24,lora_60m,4,,pole (sender),sent,1,
+sw.pdf,24,lora_60m,4,,gateway (receiver),received,1,
+sw.pdf,24,lora_60m,4,,gateway (receiver),rssi,-47,dBm
+sw.pdf,24,lora_60m,4,,gateway (receiver),snr,9.8,dB
+sw.pdf,24,lora_60m,5,,pole (sender),sent,1,
+sw.pdf,24,lora_60m,5,,gateway (receiver),received,1,
+sw.pdf,24,lora_60m,5,,gateway (receiver),rssi,-46,dBm
+sw.pdf,24,lora_60m,5,,gateway (receiver),snr,10.1,dB
+sw.pdf,24,lora_60m,6,,pole (sender),sent,1,
+sw.pdf,24,lora_60m,6,,gateway (receiver),received,1,
+sw.pdf,24,lora_60m,6,,gateway (receiver),rssi,-48,dBm
+sw.pdf,24,lora_60m,6,,gateway (receiver),snr,9.5,dB
+sw.pdf,24,lora_60m,7,,pole (sender),sent,1,
+sw.pdf,24,lora_60m,7,,gateway (receiver),received,1,
+sw.pdf,24,lora_60m,7,,gateway (receiver),rssi,-49,dBm
+sw.pdf,24,lora_60m,7,,gateway (receiver),snr,9.3,dB
+sw.pdf,24,lora_60m,8,,pole (sender),sent,1,
+sw.pdf,24,lora_60m,8,,gateway (receiver),received,1,
+sw.pdf,24,lora_60m,8,,gateway (receiver),rssi,-45,dBm
+sw.pdf,24,lora_60m,8,,gateway (receiver),snr,10.6,dB
+sw.pdf,24,lora_60m,9,,pole (sender),sent,1,
+sw.pdf,24,lora_60m,9,,gateway (receiver),received,1,
+sw.pdf,24,lora_60m,9,,gateway (receiver),rssi,-46,dBm
+sw.pdf,24,lora_60m,9,,gateway (receiver),snr,10.3,dB
+sw.pdf,24,lora_60m,10,,pole (sender),sent,1,
+sw.pdf,24,lora_60m,10,,gateway (receiver),received,1,
+sw.pdf,24,lora_60m,10,,gateway (receiver),rssi,-47,dBm
+sw.pdf,24,lora_60m,10,,gateway (receiver),snr,9.9,dB
+sw.pdf,25,lora_60m,11,,pole (sender),sent,1,
+sw.pdf,25,lora_60m,11,,gateway (receiver),received,1,
+sw.pdf,25,lora_60m,11,,gateway (receiver),rssi,-48,dBm
+sw.pdf,25,lora_60m,11,,gateway (receiver),snr,9.7,dB
+sw.pdf,25,lora_60m,12,,pole (sender),sent,1,
+sw.pdf,25,lora_60m,12,,gateway (receiver),received,1,
+sw.pdf,25,lora_60m,12,,gateway (receiver),rssi,-49,dBm
+sw.pdf,25,lora_60m,12,,gateway (receiver),snr,9.2,dB
+sw.pdf,25,lora_60m,13,,pole (sender),sent,1,
+sw.pdf,25,lora_60m,13,,gateway (receiver),received,1,
+sw.pdf,25,lora_60m,13,,gateway (receiver),rssi,-45,dBm
+sw.pdf,25,lora_60m,13,,gateway (receiver),snr,10.8,dB
+sw.pdf,25,lora_60m,14,,pole (sender),sent,1,
+sw.pdf,25,lora_60m,14,,gateway (receiver),received,1,
+sw.pdf,25,lora_60m,14,,gateway (receiver),rssi,-46,dBm
+sw.pdf,25,lora_60m,14,,gateway (receiver),snr,10.4,dB
+sw.pdf,25,lora_60m,15,,pole (sender),sent,1,
+sw.pdf,25,lora_60m,15,,gateway (receiver),received,1,
+sw.pdf,25,lora_60m,15,,gateway (receiver),rssi,-45,dBm
+sw.pdf,25,lora_60m,15,,gateway (receiver),snr,10.6,dB
+sw.pdf,25,lora_60m,16,,pole (sender),sent,1,
+sw.pdf,25,lora_60m,16,,gateway (receiver),received,1,
+sw.pdf,25,lora_60m,16,,gateway (receiver),rssi,-47,dBm
+sw.pdf,25,lora_60m,16,,gateway (receiver),snr,9.6,dB
+sw.pdf,25,lora_60m,17,,pole (sender),sent,1,
+sw.pdf,25,lora_60m,17,,gateway (receiver),received,1,
+sw.pdf,25,lora_60m,17,,gateway (receiver),rssi,-48,dBm
+sw.pdf,25,lora_60m,17,,gateway (receiver),snr,9.3,dB
+sw.pdf,25,lora_60m,18,,pole (sender),sent,1,
+sw.pdf,25,lora_60m,18,,gateway (receiver),received,1,
+sw.pdf,25,lora_60m,18,,gateway (receiver),rssi,-49,dBm
+sw.pdf,25,lora_60m,18,,gateway (receiver),snr,9.0,dB
+sw.pdf,25,lora_60m,19,,pole (sender),sent,1,
+sw.pdf,25,lora_60m,19,,gateway (receiver),received,1,
+sw.pdf,25,lora_60m,19,,gateway (receiver),rssi,-46,dBm
+sw.pdf,25,lora_60m,19,,gateway (receiver),snr,10.0,dB
+sw.pdf,25,lora_60m,20,,pole (sender),sent,1,
+sw.pdf,25,lora_60m,20,,gateway (receiver),received,1,
+sw.pdf,25,lora_60m,20,,gateway (receiver),rssi,-47,dBm
+sw.pdf,25,lora_60m,20,,gateway (receiver),snr,9.7,dB
+sw.pdf,26,lora_60m,21,,pole (sender),sent,1,
+sw.pdf,26,lora_60m,21,,gateway (receiver),received,1,
+sw.pdf,26,lora_60m,21,,gateway (receiver),rssi,-45,dBm
+sw.pdf,26,lora_60m,21,,gateway (receiver),snr,10.5,dB
+sw.pdf,26,lora_60m,22,,pole (sender),sent,1,
+sw.pdf,26,lora_60m,22,,gateway (receiver),received,1,
+sw.pdf,26,lora_60m,22,,gateway (receiver),rssi,-46,dBm
+sw.pdf,26,lora_60m,22,,gateway (receiver),snr,10.2,dB
+sw.pdf,26,lora_60m,23,,pole (sender),sent,1,
+sw.pdf,26,lora_60m,23,,gateway (receiver),received,1,
+sw.pdf,26,lora_60m,23,,gateway (receiver),rssi,-47,dBm
+sw.pdf,26,lora_60m,23,,gateway (receiver),snr,9.8,dB
+sw.pdf,26,lora_60m,24,,pole (sender),sent,1,
+sw.pdf,26,lora_60m,24,,gateway (receiver),received,1,
+sw.pdf,26,lora_60m,24,,gateway (receiver),rssi,-48,dBm
+sw.pdf,26,lora_60m,24,,gateway (receiver),snr,9.5,dB
+sw.pdf,26,lora_60m,25,,pole (sender),sent,1,
+sw.pdf,26,lora_60m,25,,gateway (receiver),received,1,
+sw.pdf,26,lora_60m,25,,gateway (receiver),rssi,-49,dBm
+sw.pdf,26,lora_60m,25,,gateway (receiver),snr,9.1,dB
+sw.pdf,26,lora_60m,26,,pole (sender),sent,1,
+sw.pdf,26,lora_60m,26,,gateway (receiver),received,1,
+sw.pdf,26,lora_60m,26,,gateway (receiver),rssi,-45,dBm
+sw.pdf,26,lora_60m,26,,gateway (receiver),snr,10.3,dB
+sw.pdf,26,lora_60m,27,,pole (sender),sent,1,
+sw.pdf,26,lora_60m,27,,gateway (receiver),received,1,
+sw.pdf,26,lora_60m,27,,gateway (receiver),rssi,-46,dBm
+sw.pdf,26,lora_60m,27,,gateway (receiver),snr,10.3,dB
+sw.pdf,26,lora_60m,28,,pole (sender),sent,1,
+sw.pdf,26,lora_60m,28,,gateway (receiver),received,1,
+sw.pdf,26,lora_60m,28,,gateway (receiver),rssi,-47,dBm
+sw.pdf,26,lora_60m,28,,gateway (receiver),snr,9.9,dB
+sw.pdf,26,lora_60m,29,,pole (sender),sent,1,
+sw.pdf,26,lora_60m,29,,gateway (receiver),received,1,
+sw.pdf,26,lora_60m,29,,gateway (receiver),rssi,-48,dBm
+sw.pdf,26,lora_60m,29,,gateway (receiver),snr,9.6,dB
+sw.pdf,26,lora_60m,30,,pole (sender),sent,1,
+sw.pdf,26,lora_60m,30,,gateway (receiver),received,1,
+sw.pdf,26,lora_60m,30,,gateway (receiver),rssi,-49,dBm
+sw.pdf,26,lora_60m,30,,gateway (receiver),snr,9.2,dB
+sw.pdf,27,lora_60m,31,,pole (sender),sent,1,
+sw.pdf,27,lora_60m,31,,gateway (receiver),received,1,
+sw.pdf,27,lora_60m,31,,gateway (receiver),rssi,-45,dBm
+sw.pdf,27,lora_60m,31,,gateway (receiver),snr,10.7,dB
+sw.pdf,27,lora_60m,32,,pole (sender),sent,1,
+sw.pdf,27,lora_60m,32,,gateway (receiver),received,1,
+sw.pdf,27,lora_60m,32,,gateway (receiver),rssi,-46,dBm
+sw.pdf,27,lora_60m,32,,gateway (receiver),snr,10.1,dB
+sw.pdf,27,lora_60m,33,,pole (sender),sent,1,
+sw.pdf,27,lora_60m,33,,gateway (receiver),received,1,
+sw.pdf,27,lora_60m,33,,gateway (receiver),rssi,-47,dBm
+sw.pdf,27,lora_60m,33,,gateway (receiver),snr,9.8,dB
+sw.pdf,27,lora_60m,34,,pole (sender),sent,1,
+sw.pdf,27,lora_60m,34,,gateway (receiver),received,1,
+sw.pdf,27,lora_60m,34,,gateway (receiver),rssi,-48,dBm
+sw.pdf,27,lora_60m,34,,gateway (receiver),snr,9.5,dB
+sw.pdf,27,lora_60m,35,,pole (sender),sent,1,
+sw.pdf,27,lora_60m,35,,gateway (receiver),received,1,
+sw.pdf,27,lora_60m,35,,gateway (receiver),rssi,-49,dBm
+sw.pdf,27,lora_60m,35,,gateway (receiver),snr,9.7,dB
+sw.pdf,27,lora_60m,36,,pole (sender),sent,1,
+sw.pdf,27,lora_60m,36,,gateway (receiver),received,1,
+sw.pdf,27,lora_60m,36,,gateway (receiver),rssi,-45,dBm
+sw.pdf,27,lora_60m,36,,gateway (receiver),snr,10.6,dB
+sw.pdf,27,lora_60m,37,,pole (sender),sent,1,
+sw.pdf,27,lora_60m,37,,gateway (receiver),received,1,
+sw.pdf,27,lora_60m,37,,gateway (receiver),rssi,-46,dBm
+sw.pdf,27,lora_60m,37,,gateway (receiver),snr,10.2,dB
+sw.pdf,27,lora_60m,38,,pole (sender),sent,1,
+sw.pdf,27,lora_60m,38,,gateway (receiver),received,1,
+sw.pdf,27,lora_60m,38,,gateway (receiver),rssi,-47,dBm
+sw.pdf,27,lora_60m,38,,gateway (receiver),snr,9.9,dB
+sw.pdf,27,lora_60m,39,,pole (sender),sent,1,
+sw.pdf,27,lora_60m,39,,gateway (receiver),received,1,
+sw.pdf,27,lora_60m,39,,gateway (receiver),rssi,-48,dBm
+sw.pdf,27,lora_60m,39,,gateway (receiver),snr,9.7,dB
+sw.pdf,27,lora_60m,40,,pole (sender),sent,1,
+sw.pdf,27,lora_60m,40,,gateway (receiver),received,1,
+sw.pdf,27,lora_60m,40,,gateway (receiver),rssi,-49,dBm
+sw.pdf,27,lora_60m,40,,gateway (receiver),snr,9.3,dB
+sw.pdf,28,lora_60m,41,,pole (sender),sent,1,
+sw.pdf,28,lora_60m,41,,gateway (receiver),received,1,
+sw.pdf,28,lora_60m,41,,gateway (receiver),rssi,-45,dBm
+sw.pdf,28,lora_60m,41,,gateway (receiver),snr,10.8,dB
+sw.pdf,28,lora_60m,42,,pole (sender),sent,1,
+sw.pdf,28,lora_60m,42,,gateway (receiver),received,1,
+sw.pdf,28,lora_60m,42,,gateway (receiver),rssi,-46,dBm
+sw.pdf,28,lora_60m,42,,gateway (receiver),snr,10.4,dB
+sw.pdf,28,lora_60m,43,,pole (sender),sent,1,
+sw.pdf,28,lora_60m,43,,gateway (receiver),received,1,
+sw.pdf,28,lora_60m,43,,gateway (receiver),rssi,-47,dBm
+sw.pdf,28,lora_60m,43,,gateway (receiver),snr,9.8,dB
+sw.pdf,28,lora_60m,44,,pole (sender),sent,1,
+sw.pdf,28,lora_60m,44,,gateway (receiver),received,1,
+sw.pdf,28,lora_60m,44,,gateway (receiver),rssi,-48,dBm
+sw.pdf,28,lora_60m,44,,gateway (receiver),snr,9.5,dB
+sw.pdf,28,lora_60m,45,,pole (sender),sent,1,
+sw.pdf,28,lora_60m,45,,gateway (receiver),received,1,
+sw.pdf,28,lora_60m,45,,gateway (receiver),rssi,-49,dBm
+sw.pdf,28,lora_60m,45,,gateway (receiver),snr,9.0,dB
+sw.pdf,28,lora_60m,46,,pole (sender),sent,1,
+sw.pdf,28,lora_60m,46,,gateway (receiver),received,1,
+sw.pdf,28,lora_60m,46,,gateway (receiver),rssi,-45,dBm
+sw.pdf,28,lora_60m,46,,gateway (receiver),snr,10.7,dB
+sw.pdf,28,lora_60m,47,,pole (sender),sent,1,
+sw.pdf,28,lora_60m,47,,gateway (receiver),received,1,
+sw.pdf,28,lora_60m,47,,gateway (receiver),rssi,-46,dBm
+sw.pdf,28,lora_60m,47,,gateway (receiver),snr,10.9,dB
+sw.pdf,28,lora_60m,48,,pole (sender),sent,1,
+sw.pdf,28,lora_60m,48,,gateway (receiver),received,1,
+sw.pdf,28,lora_60m,48,,gateway (receiver),rssi,-47,dBm
+sw.pdf,28,lora_60m,48,,gateway (receiver),snr,9.9,dB
+sw.pdf,28,lora_60m,49,,pole (sender),sent,1,
+sw.pdf,28,lora_60m,49,,gateway (receiver),received,1,
+sw.pdf,28,lora_60m,49,,gateway (receiver),rssi,-48,dBm
+sw.pdf,28,lora_60m,49,,gateway (receiver),snr,9.6,dB
+sw.pdf,28,lora_60m,50,,pole (sender),sent,1,
+sw.pdf,28,lora_60m,50,,gateway (receiver),received,1,
+sw.pdf,28,lora_60m,50,,gateway (receiver),rssi,-49,dBm
+sw.pdf,28,lora_60m,50,,gateway (receiver),snr,9.2,dB
+sw.pdf,99,calibration_kit_first,1,,soil test kit,ph,9,
+sw.pdf,99,calibration_kit_first,1,,7-in-1 sensor,ph,4,
+sw.pdf,99,calibration_kit_first,1,,soil test kit,n,500,
+sw.pdf,99,calibration_kit_first,1,,7-in-1 sensor,n,525,
+sw.pdf,99,calibration_kit_first,1,,soil test kit,p,80,
+sw.pdf,99,calibration_kit_first,1,,7-in-1 sensor,p,1259,
+sw.pdf,99,calibration_kit_first,1,,soil test kit,k,240,
+sw.pdf,99,calibration_kit_first,1,,7-in-1 sensor,k,1261,
+sw.pdf,100,calibration_kit_second,1,,soil test kit,ph,9,
+sw.pdf,100,calibration_kit_second,1,,7-in-1 sensor,ph,5,
+sw.pdf,100,calibration_kit_second,1,,soil test kit,n,500,
+sw.pdf,100,calibration_kit_second,1,,7-in-1 sensor,n,451,
+sw.pdf,100,calibration_kit_second,1,,soil test kit,p,80,
+sw.pdf,100,calibration_kit_second,1,,7-in-1 sensor,p,1089,
+sw.pdf,100,calibration_kit_second,1,,soil test kit,k,240,
+sw.pdf,100,calibration_kit_second,1,,7-in-1 sensor,k,1090,
+sw.pdf,103,calibration_ph_ec_first,1,,soil test kit,ph,7.22,
+sw.pdf,103,calibration_ph_ec_first,1,,7-in-1 sensor,ph,4,
+sw.pdf,103,calibration_ph_ec_first,1,,soil test kit,ec,2731,
+sw.pdf,103,calibration_ph_ec_first,1,,7-in-1 sensor,ec,2700,
+sw.pdf,104,calibration_ph_ec_second,1,,soil test kit,ph,7.42,
+sw.pdf,104,calibration_ph_ec_second,1,,7-in-1 sensor,ph,5,
+sw.pdf,104,calibration_ph_ec_second,1,,soil test kit,ec,3784,
+sw.pdf,104,calibration_ph_ec_second,1,,7-in-1 sensor,ec,3736,
+sw.pdf,106,calibration_air_temperature,1,,SHT30 (our sensor),air_temperature,33.3,
+sw.pdf,106,calibration_air_temperature,1,,reference sensor,air_temperature,33,
+sw.pdf,106,calibration_air_temperature,2,,SHT30 (our sensor),air_temperature,33.1,
+sw.pdf,106,calibration_air_temperature,2,,reference sensor,air_temperature,33,
+sw.pdf,106,calibration_air_temperature,3,,SHT30 (our sensor),air_temperature,33.0,
+sw.pdf,106,calibration_air_temperature,3,,reference sensor,air_temperature,33,
+sw.pdf,106,calibration_air_temperature,4,,SHT30 (our sensor),air_temperature,33.1,
+sw.pdf,106,calibration_air_temperature,4,,reference sensor,air_temperature,33,
+sw.pdf,106,calibration_air_temperature,5,,SHT30 (our sensor),air_temperature,33.1,
+sw.pdf,106,calibration_air_temperature,5,,reference sensor,air_temperature,33,
+sw.pdf,108,calibration_air_humidity,1,,SHT30 (our sensor),air_humidity,41.1,
+sw.pdf,108,calibration_air_humidity,1,,reference sensor,air_humidity,41,
+sw.pdf,108,calibration_air_humidity,2,,SHT30 (our sensor),air_humidity,42.7,
+sw.pdf,108,calibration_air_humidity,2,,reference sensor,air_humidity,42,
+sw.pdf,108,calibration_air_humidity,3,,SHT30 (our sensor),air_humidity,42.8,
+sw.pdf,108,calibration_air_humidity,3,,reference sensor,air_humidity,40,
+sw.pdf,108,calibration_air_humidity,4,,SHT30 (our sensor),air_humidity,41.8,
+sw.pdf,108,calibration_air_humidity,4,,reference sensor,air_humidity,41,
+sw.pdf,108,calibration_air_humidity,5,,SHT30 (our sensor),air_humidity,42.6,
+sw.pdf,108,calibration_air_humidity,5,,reference sensor,air_humidity,42,
+sw.pdf,111,calibration_soil_temperature,1,,7-in-1 sensor (our sensor),soil_temperature,31.0,
+sw.pdf,111,calibration_soil_temperature,1,,4-in-1 soil survey instrument,soil_temperature,31,
+sw.pdf,111,calibration_soil_temperature,2,,7-in-1 sensor (our sensor),soil_temperature,30.9,
+sw.pdf,111,calibration_soil_temperature,2,,4-in-1 soil survey instrument,soil_temperature,30,
+sw.pdf,111,calibration_soil_temperature,3,,7-in-1 sensor (our sensor),soil_temperature,29.0,
+sw.pdf,111,calibration_soil_temperature,3,,4-in-1 soil survey instrument,soil_temperature,29,
+sw.pdf,111,calibration_soil_temperature,4,,7-in-1 sensor (our sensor),soil_temperature,28.1,
+sw.pdf,111,calibration_soil_temperature,4,,4-in-1 soil survey instrument,soil_temperature,28,
+sw.pdf,111,calibration_soil_temperature,5,,7-in-1 sensor (our sensor),soil_temperature,27.3,
+sw.pdf,111,calibration_soil_temperature,5,,4-in-1 soil survey instrument,soil_temperature,27,
+sw.pdf,114,calibration_soil_moisture,1,,7-in-1 sensor (our sensor),soil_moisture,11.6,
+sw.pdf,114,calibration_soil_moisture,1,,4-in-1 soil survey instrument,soil_moisture_class,DRY+,
+sw.pdf,114,calibration_soil_moisture,2,,7-in-1 sensor (our sensor),soil_moisture,39.9,
+sw.pdf,114,calibration_soil_moisture,2,,4-in-1 soil survey instrument,soil_moisture_class,DRY,
+sw.pdf,114,calibration_soil_moisture,3,,7-in-1 sensor (our sensor),soil_moisture,55.0,
+sw.pdf,114,calibration_soil_moisture,3,,4-in-1 soil survey instrument,soil_moisture_class,NOR,
+sw.pdf,114,calibration_soil_moisture,4,,7-in-1 sensor (our sensor),soil_moisture,63.4,
+sw.pdf,114,calibration_soil_moisture,4,,4-in-1 soil survey instrument,soil_moisture_class,WET,
+sw.pdf,114,calibration_soil_moisture,5,,7-in-1 sensor (our sensor),soil_moisture,100,
+sw.pdf,114,calibration_soil_moisture,5,,4-in-1 soil survey instrument,soil_moisture_class,WET+,
+sw.pdf,119,calibration_ph,1,,soil tester,ph,5.6,
+sw.pdf,119,calibration_ph,1,,soil test kit,ph,6,
+sw.pdf,119,calibration_ph,1,,7-in-1 sensor,ph,5.5,
+sw.pdf,119,calibration_ph,2,,soil tester,ph,5.6,
+sw.pdf,119,calibration_ph,2,,soil test kit,ph,6,
+sw.pdf,119,calibration_ph,2,,7-in-1 sensor,ph,5.5,
+sw.pdf,119,calibration_ph,3,,soil tester,ph,5.4,
+sw.pdf,119,calibration_ph,3,,soil test kit,ph,6,
+sw.pdf,119,calibration_ph,3,,7-in-1 sensor,ph,5.5,
+sw.pdf,119,calibration_ph,4,,soil tester,ph,5.4,
+sw.pdf,119,calibration_ph,4,,soil test kit,ph,6,
+sw.pdf,119,calibration_ph,4,,7-in-1 sensor,ph,5.5,
+sw.pdf,119,calibration_ph,5,,soil tester,ph,5.4,
+sw.pdf,119,calibration_ph,5,,soil test kit,ph,6,
+sw.pdf,119,calibration_ph,5,,7-in-1 sensor,ph,5.5,
+sw.pdf,122,calibration_ec,1,,water quality tester,ec,19211,µS/cm
+sw.pdf,122,calibration_ec,1,,7-in-1 sensor,ec,20000,µS/cm
+sw.pdf,122,calibration_ec,2,,water quality tester,ec,19480,µS/cm
+sw.pdf,122,calibration_ec,2,,7-in-1 sensor,ec,20000,µS/cm
+sw.pdf,122,calibration_ec,3,,water quality tester,ec,19562,µS/cm
+sw.pdf,122,calibration_ec,3,,7-in-1 sensor,ec,20000,µS/cm
+sw.pdf,122,calibration_ec,4,,water quality tester,ec,19396,µS/cm
+sw.pdf,122,calibration_ec,4,,7-in-1 sensor,ec,20000,µS/cm
+sw.pdf,122,calibration_ec,5,,water quality tester,ec,19472,µS/cm
+sw.pdf,122,calibration_ec,5,,7-in-1 sensor,ec,20000,µS/cm
+sw.pdf,125,calibration_n,1,,soil test kit,n,10,ppm
+sw.pdf,125,calibration_n,1,,7-in-1 sensor,n,23,ppm
+sw.pdf,125,calibration_n,2,,soil test kit,n,10,ppm
+sw.pdf,125,calibration_n,2,,7-in-1 sensor,n,27,ppm
+sw.pdf,125,calibration_n,3,,soil test kit,n,10,ppm
+sw.pdf,125,calibration_n,3,,7-in-1 sensor,n,24,ppm
+sw.pdf,125,calibration_n,4,,soil test kit,n,10,ppm
+sw.pdf,125,calibration_n,4,,7-in-1 sensor,n,23,ppm
+sw.pdf,125,calibration_n,5,,soil test kit,n,10,ppm
+sw.pdf,125,calibration_n,5,,7-in-1 sensor,n,23,ppm
+sw.pdf,128,calibration_p,1,,soil test kit,p,80,ppm
+sw.pdf,128,calibration_p,1,,7-in-1 sensor,p,99,ppm
+sw.pdf,128,calibration_p,2,,soil test kit,p,80,ppm
+sw.pdf,128,calibration_p,2,,7-in-1 sensor,p,109,ppm
+sw.pdf,128,calibration_p,3,,soil test kit,p,80,ppm
+sw.pdf,128,calibration_p,3,,7-in-1 sensor,p,110,ppm
+sw.pdf,128,calibration_p,4,,soil test kit,p,80,ppm
+sw.pdf,128,calibration_p,4,,7-in-1 sensor,p,100,ppm
+sw.pdf,128,calibration_p,5,,soil test kit,p,80,ppm
+sw.pdf,128,calibration_p,5,,7-in-1 sensor,p,103,ppm
+sw.pdf,131,calibration_k,1,,soil test kit,k,80,ppm
+sw.pdf,131,calibration_k,1,,7-in-1 sensor,k,92,ppm
+sw.pdf,131,calibration_k,2,,soil test kit,k,80,ppm
+sw.pdf,131,calibration_k,2,,7-in-1 sensor,k,96,ppm
+sw.pdf,131,calibration_k,3,,soil test kit,k,80,ppm
+sw.pdf,131,calibration_k,3,,7-in-1 sensor,k,103,ppm
+sw.pdf,131,calibration_k,4,,soil test kit,k,80,ppm
+sw.pdf,131,calibration_k,4,,7-in-1 sensor,k,101,ppm
+sw.pdf,131,calibration_k,5,,soil test kit,k,80,ppm
+sw.pdf,131,calibration_k,5,,7-in-1 sensor,k,101,ppm
+sw.pdf,34,server_daily_status,1,30-Nov-67,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,2,,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,3,2-Dec-67,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,4,,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,5,4-Dec-67,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,6,,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,7,6-Dec-67,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,8,,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,9,8-Dec-67,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,10,,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,11,10-Dec-67,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,12,,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,13,12-Dec-67,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,14,,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,15,14-Dec-67,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,16,,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,17,16-Dec-67,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,18,,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,19,18-Dec-67,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,20,,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,21,20-Dec-67,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,22,,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,23,22-Dec-67,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,24,,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,25,24-Dec-67,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,26,,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,27,26-Dec-67,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,28,,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,29,28-Dec-67,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,30,,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,31,30-Dec-67,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,32,,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,33,1-Jan-68,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,34,,CasaOS server,server_up,0,
+sw.pdf,34,server_daily_status,35,3-Jan-68,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,36,,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,37,5-Jan-68,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,38,,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,39,7-Jan-68,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,40,,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,41,9-Jan-68,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,42,,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,43,11-Jan-68,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,44,,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,45,13-Jan-68,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,46,,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,47,15-Jan-68,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,48,,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,49,17-Jan-68,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,50,,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,51,19-Jan-68,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,52,,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,53,21-Jan-68,CasaOS server,server_up,0,
+sw.pdf,34,server_daily_status,54,,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,55,23-Jan-68,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,56,,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,57,25-Jan-68,CasaOS server,server_up,0,
+sw.pdf,34,server_daily_status,58,,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,59,27-Jan-68,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,60,,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,61,29-Jan-68,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,62,,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,63,31-Jan-68,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,64,,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,65,2-Feb-68,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,66,,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,67,4-Feb-68,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,68,,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,69,6-Feb-68,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,70,,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,71,8-Feb-68,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,72,,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,73,10-Feb-68,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,74,,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,75,12-Feb-68,CasaOS server,server_up,0,
+sw.pdf,34,server_daily_status,76,,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,77,14-Feb-68,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,78,,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,79,16-Feb-68,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,80,,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,81,18-Feb-68,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,82,,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,83,20-Feb-68,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,84,,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,85,22-Feb-68,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,86,,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,87,24-Feb-68,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,88,,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,89,26-Feb-68,CasaOS server,server_up,0,
+sw.pdf,34,server_daily_status,90,,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,91,28-Feb-68,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,92,,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,93,1-Mar-68,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,94,,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,95,3-Mar-68,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,96,,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,97,5-Mar-68,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,98,,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,99,7-Mar-68,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,100,,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,101,9-Mar-68,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,102,,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,103,11-Mar-68,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,104,,CasaOS server,server_up,1,
+sw.pdf,34,server_daily_status,105,13-Mar-68,CasaOS server,server_up,1,
