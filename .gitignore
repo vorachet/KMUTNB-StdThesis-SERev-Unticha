@@ -2,17 +2,4 @@
 .Rhistory
 .RData
 .Ruserdata
-tools/extract_entities.py
-tools/extract_tables.py
-tools/make_meta.py
-tools/meta.json
-KMUTNB-StdThesis-SERev-Unticha.Rproj
-import_thesis_data.R
-Presentation-Plan.md
-Review-27-OCT-2026.md
-SE-Reverse-Engineering-Reporting-Structure.md
-Student Latest Work.md
-Thesis.md
-Ch1.md
-Ch1.Rmd
 DurianOrchardMonitoring/.DS_Store
